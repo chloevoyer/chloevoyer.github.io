@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chloé Voyer",
+    "label": "MSc",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chloe.voyer@hotmail.com",
+    "phone": "(450) 272-3736",
+    "url": "https://chloevoyer.github.io/",
+    "summary": "MSc student in Mental Health at McGill University who was awarded 3 scholarships during my first year as a masters student, seeking to pursue graduate research on the efficacy of workplace interventions in adults living with mental illness.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "H2C 1K3",
+      "city": "Montréal",
+      "countryCode": "Canada",
+      "region": "Québec"
     },
     "profiles": [
       {
