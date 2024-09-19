@@ -47,13 +47,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "McGill University, Zurich, Switzerland",
+      "location": "Montreal, QC Canada",
+      "url": "",
+      "area": "Mental Health",
+      "studyType": "MSc",
+      "startDate": "2023-09-01",
+      "endDate": "2025-08-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
@@ -113,25 +113,18 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "ADHD strengths, challenges and adaptation in employment: A systematic review",
+      "publisher": "Neurodiversity",
+      "releaseDate": "2024-09-30",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Transdiagnostic cognitive biases in psychiatric disorders: A systematic review and network meta-analysis [Special issue]",
+      "publisher": "Progress in Neuro-Psychopharmacology and Biological Psychiatry",
+      "releaseDate": "2024-02-08",
+      "url": "https://doi.org/10.1016/j.pnpbp.2023.110894",
+      "summary": ""
     }
   ],
   "skills": [
@@ -151,13 +144,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
