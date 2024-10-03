@@ -32,11 +32,11 @@
       "highlights": []
     },
     {
-      "name": "Elections Canada",
+      "name": "Voting Offices, Elections Canada",
       "position": "Scrutator",
       "startDate": "2021",
       "endDate": "2021",
-      "summary": "Worked at Voting Offices.",
+      "summary": ".",
       "highlights": []
     },
     {
@@ -197,14 +197,6 @@
     }
   ],
   "skills": [
-    {
-      "name": "Languages",
-      "level": "Native/Fully Bilingual",
-      "keywords": [
-        "French",
-        "English"
-      ]
-    },
     {
       "name": "Programming Languages & Tools",
       "level": "",
