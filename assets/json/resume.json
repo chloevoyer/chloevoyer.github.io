@@ -262,7 +262,19 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [Workplace interventions &#8226; ADHD &#8226; schizophrenia &#8226; theory of mind],
+  "interests":
+    "interests": [
+    {
+      "name": "Psychiatry",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Workplace interventions",
+        "ADHD",
+        "Severe mental illness",
+        "Theory of mind"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Geneviève Sauvé, PhD, PsyD",
