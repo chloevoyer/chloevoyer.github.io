@@ -25,6 +25,7 @@
   "work": [
     {
       "name": "Research Volunteer",
+      "url": "https://dreambigresearch.com/", 
       "startDate": "2023",
       "endDate": "present",
       "summary": "DREAM BIG Lab <br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
@@ -32,6 +33,7 @@
     },
     {
       "name": "Research Assistant",
+      "url": "https://www.crispdouglas.ca/",
       "startDate": "2023",
       "endDate": "2023",
       "summary": "CRISP Lab, Douglas Research Centre",
@@ -39,6 +41,7 @@
     },
     {
       "name": "Research Coordinator",
+      "url": "https://www.smart-lab.ca/", 
       "startDate": "2021",
       "endDate": "2023",
       "summary": "SMART Lab <br/> Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
@@ -46,6 +49,7 @@
     },
     {
       "name": "Research Assistant",
+      "url": "https://www.mcgill.ca/familymed/peter-nugus",
       "startDate": "2021",
       "endDate": "2023",
       "summary": "Dr Peter Nugus <br/> Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
@@ -64,6 +68,7 @@
     {
       "name": "BounceBack, Canadian Mental Health Association (CMHA)",
       "position": "Mental Health Coach",
+      "url": "https://bouncebackqc.ca/", 
       "icon": "fa-solid fa-brain",
       "startDate": "2021",
       "endDate": "2022",
@@ -130,6 +135,7 @@
     {
       "organization": "Centre for Child Development and Mental Health <br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
       "position": "Graduate Research Volunteer",
+      "url": "https://www.jgh.ca/care-services/occupational-therapy/occupational-therapy-mental-health/child-psychiatry-services/", 
       "icon": "fa-solid fa-hands-helping",
       "startDate": "2023",
       "endDate": "2024",
@@ -185,7 +191,6 @@
       "title": "Scholarships for post‑secondary students (Master's)",
       "date": "2024",
       "awarder": "Desjardins Foundation",
-      "url": "",
       "summary": "$3,000"
     },
     {
@@ -215,7 +220,7 @@
       "name": "Ethical Conduct for Research Involving Humans",
       "date": "",
       "issuer": "",
-      "url": "",
+      "url": "https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
@@ -317,11 +322,13 @@
     {
       "name": "Geneviève Sauvé, PhD, PsyD",
       "icon": "fa-solid fa-user",
+      "url": "sauve.genevieve@uqam.ca",
       "reference": "Assistant Professor of Education and Pedagogy, Université du Québec à Montréal <br/> Researcher, Douglas Research Centre <br/> Psychologist"
     },
     {
       "name": "Ian Gold, PhD",
       "icon": "fa-solid fa-user",
+      "url": "ian.gold@mcgill.ca",
       "reference": "Professor of Philosophy, McGill University <br/> Chair of the Department of Philosophy, McGill University"
     }
   ]
