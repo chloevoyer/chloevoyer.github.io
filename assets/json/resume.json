@@ -59,6 +59,28 @@
       "description": "Dean's Honours List"
     }
   ],
+  "awards": [
+    {
+      "title": "Scholarships for post‑secondary students (Master's)",
+      "date": "2024",
+      "awarder": "Desjardins Foundation",
+      "summary": "$3,000"
+    },
+    {
+      "title": "Canada Graduate Scholarship – Master's program (CGS M)",
+      "date": "2024",
+      "awarder": "Canadian Institutes of Health Research (CIHR)",
+      "url": "https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en",
+      "summary": "$27,000"
+    },
+    {
+      "title": "Workplace Mental Health Impact Studentship",
+      "date": "2024",
+      "awarder": "Mental Health Research Canada (MHRC), co‑funded in partnership with Mitacs and iA Financial Group",
+      "url": "https://www.mhrc.ca/studentresearchers/chloevoyer",
+      "summary": "$15,000"
+    }
+  ],
   "work": [
     {
       "position": "Research Volunteer",
@@ -194,28 +216,6 @@
       "endDate": "2023-09-01",
       "summary": "",
       "highlights": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "Scholarships for post‑secondary students (Master's)",
-      "date": "2024",
-      "awarder": "Desjardins Foundation",
-      "summary": "$3,000"
-    },
-    {
-      "title": "Canada Graduate Scholarship – Master's program (CGS M)",
-      "date": "2024",
-      "awarder": "Canadian Institutes of Health Research (CIHR)",
-      "url": "https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en",
-      "summary": "$27,000"
-    },
-    {
-      "title": "Workplace Mental Health Impact Studentship",
-      "date": "2024",
-      "awarder": "Mental Health Research Canada (MHRC), co‑funded in partnership with Mitacs and iA Financial Group",
-      "url": "https://www.mhrc.ca/studentresearchers/chloevoyer",
-      "summary": "$15,000"
     }
   ],
   "certificates": [
