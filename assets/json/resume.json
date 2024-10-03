@@ -45,8 +45,8 @@
       "position": "Research Coordinator",
       "name": "SMART Lab <br/> Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
       "url": "https://www.smart-lab.ca/", 
-      "startDate": "2021",
-      "endDate": "2023",
+      "startDate": "2021-10-01",
+      "endDate": "2023-09-01",
       "summary": "",
       "highlights": []
     },
@@ -75,8 +75,8 @@
       "name": "BounceBack, Canadian Mental Health Association (CMHA)",
       "url": "https://bouncebackqc.ca/", 
       "icon": "fa-solid fa-brain",
-      "startDate": "2021",
-      "endDate": "2022",
+      "startDate": "2021-12-01",
+      "endDate": "2022-10-01",
       "summary": "Provided mental health coaching sessions and developed and delivered mental health workshops.",
       "highlights": []
     },
@@ -143,7 +143,7 @@
       "url": "https://www.jgh.ca/care-services/occupational-therapy/occupational-therapy-mental-health/child-psychiatry-services/", 
       "icon": "fa-solid fa-hands-helping",
       "startDate": "2023",
-      "endDate": "2024",
+      "endDate": "present",
       "summary": "",
       "highlights": []
     },
@@ -152,8 +152,8 @@
       "position": "Psychosocial Intervention",
       "url": "https://cpsmontreal.ca/en/",
       "icon": "fa-solid fa-phone-volume",
-      "startDate": "2021",
-      "endDate": "2023",
+      "startDate": "2021-01-01",
+      "endDate": "2023-09-01",
       "summary": "",
       "highlights": []
     }
