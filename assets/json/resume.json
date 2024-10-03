@@ -146,18 +146,21 @@
       "title": "Scholarships for post‑secondary students (Master's)",
       "date": "2024",
       "awarder": "Desjardins Foundation",
+      "url": "",
       "summary": "$3,000"
     },
     {
       "title": "Canada Graduate Scholarship – Master's program (CGS M)",
       "date": "2024-2025",
       "awarder": "Canadian Institutes of Health Research (CIHR)",
+      "url": "https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en",
       "summary": "$27,000. Improving the Quality of Work Life for People Living with ADHD"
     },
     {
       "title": "Workplace Mental Health Impact Studentship",
       "date": "2024",
       "awarder": "Mental Health Research Canada (MHRC), co‑funded in partnership with Mitacs and iA Financial Group",
+      "url": "www.mhrc.ca/studentresearchers/chloevoyer",
       "summary": "$15,000. Improving Quality of Life at Work for People Living with ADHD"
     }
   ],
