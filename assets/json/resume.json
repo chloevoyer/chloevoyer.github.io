@@ -24,6 +24,44 @@
   },
   "work": [
     {
+      "name": "Research Volunteer",
+      "startDate": "2023",
+      "endDate": "present",
+      "summary": "DREAM BIG Lab <br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
+      "highlights": []
+    },
+    {
+      "name": "Research Assistant",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "CRISP Lab, Douglas Research Centre",
+      "highlights": []
+    },
+    {
+      "name": "Research Coordinator",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "SMART Lab <br/> Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
+      "highlights": []
+    },
+    {
+      "name": "Research Assistant",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Dr Peter Nugus <br/> Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
+      "highlights": [
+        "Conducted literature reviews",
+        "Assisted in data collection and analysis"
+      ]
+    },
+    {
+      "name": "Undergraduate Research Internship",
+      "startDate": "2021-01",
+      "endDate": "2021-08",
+      "summary": "Dr Michael Petrides' Neurocognitive Lab <br/> Montreal Neurological Institute-Hospital, McGill University",
+      "highlights": []
+    },
+    {
       "name": "BounceBack, Canadian Mental Health Association (CMHA)",
       "position": "Mental Health Coach",
       "icon": "fa-solid fa-brain",
@@ -285,46 +323,6 @@
       "name": "Ian Gold, PhD",
       "icon": "fa-solid fa-user",
       "reference": "Professor of Philosophy, McGill University <br/> Chair of the Department of Philosophy, McGill University"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Research Volunteer",
-      "startDate": "2023",
-      "endDate": "present",
-      "summary": "DREAM BIG Lab <br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
-      "highlights": []
-    },
-    {
-      "name": "Research Assistant",
-      "startDate": "2023",
-      "endDate": "2023",
-      "summary": "CRISP Lab, Douglas Research Centre",
-      "highlights": []
-    },
-    {
-      "name": "Research Coordinator",
-      "startDate": "2021",
-      "endDate": "2023",
-      "summary": "SMART Lab <br/> Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
-      "highlights": []
-    },
-    {
-      "name": "Research Assistant",
-      "startDate": "2021",
-      "endDate": "2023",
-      "summary": "Dr Peter Nugus <br/> Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
-      "highlights": [
-        "Conducted literature reviews",
-        "Assisted in data collection and analysis"
-      ]
-    },
-    {
-      "name": "Undergraduate Research Internship",
-      "startDate": "2021-01",
-      "endDate": "2021-08",
-      "summary": "Dr Michael Petrides' Neurocognitive Lab <br/> Montreal Neurological Institute-Hospital, McGill University",
-      "highlights": []
     }
   ]
 }
