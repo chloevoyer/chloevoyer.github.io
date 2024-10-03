@@ -213,7 +213,7 @@
     {
       "name": "Data Analysis & Statistical Software",
       "level": "",
-      "icon": "fa-solid fa-brand-google-analytics",
+      "icon": "fa-solid fa-chart-line",
       "keywords": [
         "FreeSurfer",
         "Statistical Package for the Social Sciences (SPSS)",
