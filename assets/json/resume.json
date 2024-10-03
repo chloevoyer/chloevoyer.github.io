@@ -165,6 +165,7 @@
       "studyType": "Master of Science",
       "startDate": "2023-09-01",
       "endDate": "2025-08-01",
+      "location": "Montreal, QC",
       "score": "",
       "courses": ["Statistics for Neurosciences", "History & Philosophy of Psychiatry", "Special Topics in Psychiatry"],
       "url": "https://www.mcgill.ca/study/2024-2025/faculties/medicine/graduate/programs/master-science-msc-mental-health-thesis", 
@@ -177,6 +178,7 @@
       "studyType": "Bachelor of Arts",
       "startDate": "2017-09-01",
       "endDate": "2021-10-01",
+      "location": "Montreal, QC",
       "score": "",
       "courses": [],
       "url": "https://www.mcgill.ca/psychology/undergraduate/programs-study/bachelor-arts-ba",
@@ -188,6 +190,7 @@
       "studyType": "DCS College Diploma",
       "startDate": "2015-09-01",
       "endDate": "2017-05-01",
+      "location": "Montreal, QC",
       "score": "",
       "courses": [],
       "description": "Dean's Honours List"
@@ -202,7 +205,7 @@
     },
     {
       "title": "Canada Graduate Scholarship – Master's program (CGS M)",
-      "date": "2024-2025",
+      "date": "2024",
       "awarder": "Canadian Institutes of Health Research (CIHR)",
       "url": "https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en",
       "summary": "$27,000"
