@@ -336,13 +336,13 @@
       "name": "Geneviève Sauvé, PhD, PsyD",
       "icon": "fa-solid fa-user",
       "url": "https://www.researchgate.net/profile/Genevieve-Sauve",
-      "reference": "Assistant Professor of Education and Pedagogy, Université du Québec à Montréal <br/> Researcher, Douglas Research Centre <br/> Psychologist <br/> Head of the "
+      "reference": "Assistant Professor of Education and Pedagogy, Université du Québec à Montréal <br/> Researcher, Douglas Research Centre <br/> Psychologist <br/> Head of the <a href=\"https://www.smart-lab.ca\">SMART Lab</a>"
     },
     {
       "name": "Ian Gold, PhD",
       "icon": "fa-solid fa-user",
       "url": "https://www.mcgill.ca/tcpsych/faculty/iangold",
-      "reference": "Professor of Philosophy, McGill University <br/> Chair of the Department of Philosophy, McGill University <br/> Head of the Neurophilosophy Lab"
+      "reference": "Professor of Philosophy, McGill University <br/> Chair of the Department of Philosophy, McGill University <br/> Head of the <a href=\"https://www.neurophilosophylab.org/\">Neurophilosophy Lab</a>"
     }
   ]
 }
