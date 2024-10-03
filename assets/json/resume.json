@@ -31,7 +31,7 @@
       "endDate": "2025-08-01",
       "location": "Montreal, QC",
       "score": "",
-      "_courses": "Statistics for Neurosciences, History & Philosophy of Psychiatry, Special Topics in Psychiatry"
+      "comment": "Statistics for Neurosciences, History & Philosophy of Psychiatry, Special Topics in Psychiatry"
       "courses": ["Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor). ", 
                   "Advisors: Drs Ridha Joober & Jai Shah", 
                   "Thesis: <i>The Efficacy of Workplace Interventions in Adults Living With ADHD</i>"],
