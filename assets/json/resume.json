@@ -31,8 +31,7 @@
       "endDate": "2025-08-01",
       "location": "Montreal, QC",
       "score": "",
-      "comment": "Statistics for Neurosciences, History & Philosophy of Psychiatry, Special Topics in Psychiatry"
-      "courses": ["Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor). ", 
+      "courses": ["Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor)", 
                   "Advisors: Drs Ridha Joober & Jai Shah", 
                   "Thesis: <i>The Efficacy of Workplace Interventions in Adults Living With ADHD</i>"],
       "url": "https://www.mcgill.ca/study/2024-2025/faculties/medicine/graduate/programs/master-science-msc-mental-health-thesis"    
@@ -45,7 +44,7 @@
       "endDate": "2021-10-01",
       "location": "Montreal, QC",
       "score": "",
-      "courses": ["Supervisor: Dr Michael Petrides","*Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain*"],
+      "courses": ["Supervisor: Dr Michael Petrides", "Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain"],
       "url": "https://www.mcgill.ca/psychology/undergraduate/programs-study/bachelor-arts-ba" 
     },
     {
