@@ -101,13 +101,14 @@
   "education": [
     {
       "institution": "McGill University",
-      "area": "Mental Health -- Social & Transcultural",
+      "area": "Mental Health – Social & Transcultural",
       "studyType": "Master of Science",
       "startDate": "2023",
       "endDate": "2025",
       "score": "",
       "courses": [],
-      "description": "Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor). Advisors: Drs Ridha Joober & Jai Shah. Thesis: The Efficacy of Workplace Interventions in Adults Living With ADHD"
+      "description": ["Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor).", 
+      "Advisors: Drs Ridha Joober & Jai Shah. Thesis: The Efficacy of Workplace Interventions in Adults Living With ADHD"]
     },
     {
       "institution": "McGill University",
@@ -138,7 +139,7 @@
       "summary": "$3,000"
     },
     {
-      "title": "Canada Graduate Scholarship -- Master's program (CGS M)",
+      "title": "Canada Graduate Scholarship – Master's program (CGS M)",
       "date": "2024-2025",
       "awarder": "Canadian Institutes of Health Research (CIHR)",
       "summary": "$27,000. Improving the Quality of Work Life for People Living with ADHD"
