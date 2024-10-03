@@ -65,6 +65,7 @@
     {
       "position": "Undergraduate Research Internship",
       "name": "Dr Michael Petrides' Neurocognitive Lab",
+      "url": "https://www.mcgill.ca/neuro/michael-petrides-phd", 
       "startDate": "2021-01",
       "endDate": "2021-08",
       "summary": "Montreal Neurological Institute-Hospital, McGill University",
@@ -144,7 +145,7 @@
       "icon": "fa-solid fa-hands-helping",
       "startDate": "2023",
       "endDate": "present",
-      "summary": "Lady Davis Institute for Medical Research – Jewish General Hospital",
+      "summary": "Lady Davis Institute for Medical Research—Jewish General Hospital",
       "highlights": []
     },
     {
@@ -334,14 +335,14 @@
     {
       "name": "Geneviève Sauvé, PhD, PsyD",
       "icon": "fa-solid fa-user",
-      "url": "sauve.genevieve@uqam.ca",
+      "url": "https://www.researchgate.net/profile/Genevieve-Sauve",
       "reference": "Assistant Professor of Education and Pedagogy, Université du Québec à Montréal <br/> Researcher, Douglas Research Centre <br/> Psychologist"
     },
     {
       "name": "Ian Gold, PhD",
       "icon": "fa-solid fa-user",
-      "url": "ian.gold@mcgill.ca",
-      "reference": "Professor of Philosophy, McGill University <br/> Chair of the Department of Philosophy, McGill University"
+      "url": "https://www.mcgill.ca/tcpsych/faculty/iangold",
+      "reference": ["Professor of Philosophy, McGill University", "Chair of the Department of Philosophy, McGill University", "https://www.neurophilosophylab.org/"]
     }
   ]
 }
