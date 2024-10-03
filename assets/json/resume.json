@@ -145,7 +145,7 @@
       "icon": "fa-solid fa-hands-helping",
       "startDate": "2023",
       "endDate": "present",
-      "summary": "Lady Davis Institute for Medical Research—Jewish General Hospital",
+      "summary": "Lady Davis Institute for Medical Research&mdash;Jewish General Hospital",
       "highlights": []
     },
     {
@@ -162,7 +162,7 @@
   "education": [
     {
       "institution": "McGill University",
-      "area": "Mental Health – Social & Transcultural",
+      "area": "Mental Health&mdash;Social & Transcultural",
       "studyType": "Master of Science",
       "startDate": "2023-09-01",
       "endDate": "2025-08-01",
@@ -170,8 +170,7 @@
       "score": "",
       "courses": ["Statistics for Neurosciences", "History & Philosophy of Psychiatry", "Special Topics in Psychiatry"],
       "url": "https://www.mcgill.ca/study/2024-2025/faculties/medicine/graduate/programs/master-science-msc-mental-health-thesis", 
-      "description": ["Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor).", 
-      "Advisors: Drs Ridha Joober & Jai Shah", "Thesis: *The Efficacy of Workplace Interventions in Adults Living With ADHD*"]
+      "description": "Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor). <br> Advisors: Drs Ridha Joober & Jai Shah <br/> Thesis: *The Efficacy of Workplace Interventions in Adults Living With ADHD*"
     },
     {
       "institution": "McGill University",
@@ -183,7 +182,7 @@
       "score": "",
       "courses": [],
       "url": "https://www.mcgill.ca/psychology/undergraduate/programs-study/bachelor-arts-ba",
-      "description": ["Supervisor: Dr Michael Petrides", "*Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain*"]
+      "description": "Supervisor: Dr Michael Petrides <br/> *Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain*"
     },
     {
       "institution": "Dawson College",
@@ -342,7 +341,7 @@
       "name": "Ian Gold, PhD",
       "icon": "fa-solid fa-user",
       "url": "https://www.mcgill.ca/tcpsych/faculty/iangold",
-      "reference": ["Professor of Philosophy, McGill University", "Chair of the Department of Philosophy, McGill University", "https://www.neurophilosophylab.org/"]
+      "reference": "Professor of Philosophy, McGill University <br/> Chair of the Department of Philosophy, McGill University <br/> https://www.neurophilosophylab.org/"
     }
   ]
 }
