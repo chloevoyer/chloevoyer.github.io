@@ -24,15 +24,17 @@
   },
   "work": [
     {
-      "name": "Research Volunteer",
+      "position": "Research Volunteer",
+      "name": "DREAM BIG Lab <br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
       "url": "https://dreambigresearch.com/", 
       "startDate": "2023",
       "endDate": "present",
-      "summary": "DREAM BIG Lab <br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
+      "summary": "",
       "highlights": []
     },
     {
-      "name": "Research Assistant",
+      "position": "Research Assistant",
+      "name": "",
       "url": "https://www.crispdouglas.ca/",
       "startDate": "2023",
       "endDate": "2023",
@@ -40,34 +42,37 @@
       "highlights": []
     },
     {
-      "name": "Research Coordinator",
+      "position": "Research Coordinator",
+      "name": "SMART Lab <br/> Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
       "url": "https://www.smart-lab.ca/", 
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "SMART Lab <br/> Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
+      "summary": "",
       "highlights": []
     },
     {
-      "name": "Research Assistant",
+      "position": "Research Assistant",
+      "name": "Dr Peter Nugus <br/> Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
       "url": "https://www.mcgill.ca/familymed/peter-nugus",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "Dr Peter Nugus <br/> Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
+      "summary": "",
       "highlights": [
         "Conducted literature reviews",
         "Assisted in data collection and analysis"
       ]
     },
     {
-      "name": "Undergraduate Research Internship",
+      "position": "Undergraduate Research Internship",
+      "name": "Dr Michael Petrides' Neurocognitive Lab <br/> Montreal Neurological Institute-Hospital, McGill University"
       "startDate": "2021-01",
       "endDate": "2021-08",
-      "summary": "Dr Michael Petrides' Neurocognitive Lab <br/> Montreal Neurological Institute-Hospital, McGill University",
+      "summary": "",
       "highlights": []
     },
     {
-      "name": "BounceBack, Canadian Mental Health Association (CMHA)",
       "position": "Mental Health Coach",
+      "name": "BounceBack, Canadian Mental Health Association (CMHA)",
       "url": "https://bouncebackqc.ca/", 
       "icon": "fa-solid fa-brain",
       "startDate": "2021",
@@ -76,8 +81,8 @@
       "highlights": []
     },
     {
-      "name": "Voting Offices, Elections Canada",
       "position": "Scrutator",
+      "name": "Voting Offices, Elections Canada",
       "icon": "fa-solid fa-eye",
       "startDate": "2021",
       "endDate": "2021",
@@ -85,8 +90,8 @@
       "highlights": []
     },
     {
-      "name": "Commission Scolaire des Hautes-Rivières",
       "position": "Substitute Teacher",
+      "name": "Commission Scolaire des Hautes-Rivières",
       "icon": "fa-solid fa-chalkboard-teacher",
       "startDate": "2019",
       "endDate": "2022",
@@ -94,8 +99,8 @@
       "highlights": []
     },
     {
-      "name": "Hôpital du Haut Richelieu, CISSS Montérégie-Centre",
       "position": "Administrative Agent",
+      "name": "Hôpital du Haut Richelieu, CISSS Montérégie-Centre",
       "icon": "fa-solid fa-hospital-user",
       "startDate": "2019",
       "endDate": "2019",
@@ -103,8 +108,8 @@
       "highlights": []
     },
     {
-      "name": "Camp de Jour de la Ville St-Jean-sur-Richelieu",
       "position": "Animator",
+      "name": "Camp de Jour de la Ville St-Jean-sur-Richelieu",
       "icon": "fa-solid fa-campground",
       "startDate": "2016",
       "endDate": "2018",
@@ -112,8 +117,8 @@
       "highlights": []
     },
     {
-      "name": "Sauve qui peut",
       "position": "Game Master",
+      "name": "Sauve qui peut",
       "icon": "fa-solid fa-puzzle-piece",
       "startDate": "2017",
       "endDate": "2018",
@@ -122,8 +127,8 @@
       "highlights": []
     },
     {
-      "name": "Clinique de Physiothérapie du Fort",
       "position": "Administrative Secretary",
+      "name": "Clinique de Physiothérapie du Fort",
       "icon": "fa-solid fa-file-medical",
       "startDate": "2013",
       "endDate": "2017",
