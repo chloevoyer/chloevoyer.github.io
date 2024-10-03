@@ -26,6 +26,7 @@
     {
       "name": "BounceBack, Canadian Mental Health Association (CMHA)",
       "position": "Mental Health Coach",
+      "icon": "fa-solid fa-brain",
       "startDate": "2021",
       "endDate": "2022",
       "summary": "Provided mental health coaching sessions and developed and delivered mental health workshops.",
@@ -34,6 +35,7 @@
     {
       "name": "Voting Offices, Elections Canada",
       "position": "Scrutator",
+      "icon": "fa-solid fa-eye",
       "startDate": "2021",
       "endDate": "2021",
       "summary": "",
@@ -42,6 +44,7 @@
     {
       "name": "Commission Scolaire des Hautes-Rivières",
       "position": "Substitute Teacher",
+      "icon": "fa-solid fa-chalkboard-teacher"
       "startDate": "2019",
       "endDate": "2022",
       "summary": "",
@@ -50,6 +53,7 @@
     {
       "name": "Hôpital du Haut Richelieu, CISSS Montérégie-Centre",
       "position": "Administrative Agent",
+      "icon": "fa-solid fa-hospital-user",
       "startDate": "2019",
       "endDate": "2019",
       "summary": "",
@@ -58,6 +62,7 @@
     {
       "name": "Camp de Jour de la Ville St-Jean-sur-Richelieu",
       "position": "Animator",
+      "icon": "fa-solid fa-campground",
       "startDate": "2016",
       "endDate": "2018",
       "summary": "",
@@ -66,6 +71,7 @@
     {
       "name": "Sauve qui peut",
       "position": "Game Master",
+      "icon": "fa-solid fa-puzzle-piece",
       "startDate": "2017",
       "endDate": "2018",
       "summary": "",
@@ -74,6 +80,7 @@
     {
       "name": "Clinique de Physiothérapie du Fort",
       "position": "Administrative Secretary",
+      "icon": "fa-solid fa-file-medical",
       "startDate": "2013",
       "endDate": "2017",
       "summary": "",
@@ -84,6 +91,7 @@
     {
       "organization": "Centre for Child Development and Mental Health, Lady Davis Institute for Medical Research – Jewish General Hospital",
       "position": "Graduate Research Volunteer",
+      "icon": "fa-solid fa-hands-helping",
       "startDate": "2023",
       "endDate": "2024",
       "summary": "",
@@ -92,6 +100,7 @@
     {
       "organization": "Suicide Prevention Centre of Montreal",
       "position": "Psychosocial Intervention",
+      "icon": "fa-solid fa-phone-volume",
       "startDate": "2021",
       "endDate": "2023",
       "summary": "",
@@ -157,28 +166,28 @@
       "date": "",
       "issuer": "",
       "url": "",
-      "icon": ""
+      "icon": "fa-solid fa-comments"
     },
     {
       "name": "Ethical Conduct for Research Involving Humans",
       "date": "",
       "issuer": "",
       "url": "",
-      "icon": ""
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Accreditation AQPS",
       "date": "",
       "issuer": "",
       "url": "",
-      "icon": "brand-messenger"
+      "icon": "fa-solid fa-life-ring"
     },
     {
       "name": "First Aid",
       "date": "",
       "issuer": "",
       "url": "",
-      "icon": "ambulance"
+      "icon": "fa-solid fa-kit-medical"
     }
   ],
   "publications": [
