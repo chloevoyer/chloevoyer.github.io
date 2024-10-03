@@ -25,38 +25,38 @@
   "work": [
     {
       "position": "Research Volunteer",
-      "name": "DREAM BIG Lab <br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
+      "name": "DREAM BIG Lab",
       "url": "https://dreambigresearch.com/", 
       "startDate": "2023",
-      "endDate": "present",
-      "summary": "",
+      "endDate": "",
+      "summary": "Lady Davis Institute for Medical Research – Jewish General Hospital",
       "highlights": []
     },
     {
       "position": "Research Assistant",
-      "name": "CRISP Lab, Douglas Research Centre",
+      "name": "CRISP Lab",
       "url": "https://www.crispdouglas.ca/",
       "startDate": "2023",
       "endDate": "2023",
-      "summary": "",
+      "summary": "Douglas Research Centre",
       "highlights": []
     },
     {
       "position": "Research Coordinator",
-      "name": "SMART Lab <br/> Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
+      "name": "SMART Lab",
       "url": "https://www.smart-lab.ca/", 
       "startDate": "2021-10-01",
       "endDate": "2023-09-01",
-      "summary": "",
+      "summary": "Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
       "highlights": []
     },
     {
       "position": "Research Assistant",
-      "name": "Dr Peter Nugus <br/> Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
+      "name": "Dr Peter Nugus",
       "url": "https://www.mcgill.ca/familymed/peter-nugus",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "",
+      "summary": "Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
       "highlights": [
         "Conducted literature reviews",
         "Assisted in data collection and analysis"
@@ -64,10 +64,10 @@
     },
     {
       "position": "Undergraduate Research Internship",
-      "name": "Dr Michael Petrides' Neurocognitive Lab <br/> Montreal Neurological Institute-Hospital, McGill University",
+      "name": "Dr Michael Petrides' Neurocognitive Lab",
       "startDate": "2021-01",
       "endDate": "2021-08",
-      "summary": "",
+      "summary": "Montreal Neurological Institute-Hospital, McGill University",
       "highlights": []
     },
     {
