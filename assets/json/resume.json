@@ -191,63 +191,6 @@
       "icon": "fa-solid fa-kit-medical"
     }
   ],
-  {
-  "skills": {
-    "icon": "fa-solid fa-tools",
-    "categories": [
-      {
-        "name": "Programming Languages & Tools",
-        "level": "",
-        "keywords": [
-          "R",
-          "Python",
-          "SQL",
-          "LaTeX",
-          "Markdown",
-          "HTML",
-          "CSS"
-        ]
-      },
-      {
-        "name": "Data Analysis & Statistical Software",
-        "level": "",
-        "keywords": [
-          "FreeSurfer",
-          "Statistical Package for the Social Sciences (SPSS)",
-          "REDCap",
-          "NVivo"
-        ]
-      },
-      {
-        "name": "Operating Systems & Environments",
-        "level": "",
-        "keywords": [
-          "Linux",
-          "Ubuntu",
-          "Virtual Machine"
-        ]
-      },
-      {
-        "name": "Office Software & Communication Tools",
-        "level": "",
-        "keywords": [
-          "Microsoft Office Suite (Word, Excel, PowerPoint)",
-          "Zoom"
-        ]
-      },
-      {
-        "name": "Reference Management",
-        "level": "",
-        "keywords": [
-          "Endnote",
-          "Zotero",
-          "CSL",
-          "CLS"
-        ]
-      }
-    ]
-  }
-}
 
   "skills": [
     {
