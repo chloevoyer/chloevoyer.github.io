@@ -1,11 +1,13 @@
 github_users:
   - torvalds
   - alshedivat
-
+  - chloevoyer
+  
 repo_description_lines_max: 2
 
 github_repos:
   - alshedivat/al-folio
+  - chloevoyer/garmin-to-notion
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
