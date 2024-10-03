@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minds@Work-ADHD
-description: with background image
+description: Improving Quality of Work Life in ADHD
 img: assets/img/brain-aurora.jpg
 importance: 1
 category: work
