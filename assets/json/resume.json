@@ -163,7 +163,7 @@
       "score": "",
       "courses": [],
       "description": ["Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor).", 
-      "Advisors: Drs Ridha Joober & Jai Shah", "Thesis: The Efficacy of Workplace Interventions in Adults Living With ADHD"]
+      "Advisors: Drs Ridha Joober & Jai Shah", "Thesis: *The Efficacy of Workplace Interventions in Adults Living With ADHD*"]
     },
     {
       "institution": "McGill University",
@@ -173,7 +173,7 @@
       "endDate": "2021",
       "score": "",
       "courses": [],
-      "description": ["Supervisor: Dr Michael Petrides", "Thesis: Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain"]
+      "description": ["Supervisor: Dr Michael Petrides", "*Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain*"]
     },
     {
       "institution": "Dawson College",
@@ -198,14 +198,14 @@
       "date": "2024-2025",
       "awarder": "Canadian Institutes of Health Research (CIHR)",
       "url": "https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en",
-      "summary": "$27,000. Improving the Quality of Work Life for People Living with ADHD"
+      "summary": "$27,000"
     },
     {
       "title": "Workplace Mental Health Impact Studentship",
       "date": "2024",
       "awarder": "Mental Health Research Canada (MHRC), co‑funded in partnership with Mitacs and iA Financial Group",
       "url": "https://www.mhrc.ca/studentresearchers/chloevoyer",
-      "summary": "$15,000. Improving Quality of Life at Work for People Living with ADHD"
+      "summary": "$15,000"
     }
   ],
   "certificates": [
