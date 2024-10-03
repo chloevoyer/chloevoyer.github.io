@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc Mental Health, McGill University.
+subtitle: MSc Mental Health
+university: , McGill University
 
 profile:
   align: right
