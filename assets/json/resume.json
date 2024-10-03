@@ -22,6 +22,43 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "McGill University",
+      "area": "Mental Health&mdash;Social & Transcultural",
+      "studyType": "Master of Science",
+      "startDate": "2023-09-01",
+      "endDate": "2025-08-01",
+      "location": "Montreal, QC",
+      "score": "",
+      "courses": ["Statistics for Neurosciences", "History & Philosophy of Psychiatry", "Special Topics in Psychiatry"],
+      "url": "https://www.mcgill.ca/study/2024-2025/faculties/medicine/graduate/programs/master-science-msc-mental-health-thesis", 
+      "description": "Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor). <br> Advisors: Drs Ridha Joober & Jai Shah <br/> Thesis: *The Efficacy of Workplace Interventions in Adults Living With ADHD*"
+    },
+    {
+      "institution": "McGill University",
+      "area": "Psychology, Behavioral Science & Environment",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2017-09-01",
+      "endDate": "2021-10-01",
+      "location": "Montreal, QC",
+      "score": "",
+      "courses": [],
+      "url": "https://www.mcgill.ca/psychology/undergraduate/programs-study/bachelor-arts-ba",
+      "description": "Supervisor: Dr Michael Petrides <br/> *Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain*"
+    },
+    {
+      "institution": "Dawson College",
+      "area": "General Social Sciences",
+      "studyType": "DCS College Diploma",
+      "startDate": "2015-09-01",
+      "endDate": "2017-05-01",
+      "location": "Montreal, QC",
+      "score": "",
+      "courses": [],
+      "description": "Dean's Honours List"
+    }
+  ],
   "work": [
     {
       "position": "Research Volunteer",
@@ -157,43 +194,6 @@
       "endDate": "2023-09-01",
       "summary": "",
       "highlights": []
-    }
-  ],
-  "education": [
-    {
-      "institution": "McGill University",
-      "area": "Mental Health&mdash;Social & Transcultural",
-      "studyType": "Master of Science",
-      "startDate": "2023-09-01",
-      "endDate": "2025-08-01",
-      "location": "Montreal, QC",
-      "score": "",
-      "courses": ["Statistics for Neurosciences", "History & Philosophy of Psychiatry", "Special Topics in Psychiatry"],
-      "url": "https://www.mcgill.ca/study/2024-2025/faculties/medicine/graduate/programs/master-science-msc-mental-health-thesis", 
-      "description": "Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor). <br> Advisors: Drs Ridha Joober & Jai Shah <br/> Thesis: *The Efficacy of Workplace Interventions in Adults Living With ADHD*"
-    },
-    {
-      "institution": "McGill University",
-      "area": "Psychology, Behavioral Science & Environment",
-      "studyType": "Bachelor of Arts",
-      "startDate": "2017-09-01",
-      "endDate": "2021-10-01",
-      "location": "Montreal, QC",
-      "score": "",
-      "courses": [],
-      "url": "https://www.mcgill.ca/psychology/undergraduate/programs-study/bachelor-arts-ba",
-      "description": "Supervisor: Dr Michael Petrides <br/> *Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain*"
-    },
-    {
-      "institution": "Dawson College",
-      "area": "General Social Sciences",
-      "studyType": "DCS College Diploma",
-      "startDate": "2015-09-01",
-      "endDate": "2017-05-01",
-      "location": "Montreal, QC",
-      "score": "",
-      "courses": [],
-      "description": "Dean's Honours List"
     }
   ],
   "awards": [
