@@ -89,7 +89,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Centre for Child Development and Mental Health, Lady Davis Institute for Medical Research – Jewish General Hospital",
+      "organization": "Centre for Child Development and Mental Health <br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
       "position": "Graduate Research Volunteer",
       "icon": "fa-solid fa-hands-helping",
       "startDate": "2023",
@@ -117,7 +117,7 @@
       "score": "",
       "courses": [],
       "description": ["Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor).", 
-      "Advisors: Drs Ridha Joober & Jai Shah. Thesis: The Efficacy of Workplace Interventions in Adults Living With ADHD"]
+      "Advisors: Drs Ridha Joober & Jai Shah", "Thesis: The Efficacy of Workplace Interventions in Adults Living With ADHD"]
     },
     {
       "institution": "McGill University",
@@ -127,7 +127,7 @@
       "endDate": "2021",
       "score": "",
       "courses": [],
-      "description": "Supervisor: Dr Michael Petrides. Thesis: Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain"
+      "description": ["Supervisor: Dr Michael Petrides", "Thesis: Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain"]
     },
     {
       "institution": "Dawson College",
@@ -190,23 +190,6 @@
       "icon": "fa-solid fa-kit-medical"
     }
   ],
-  "publications": [
-    {
-      "name": "ADHD strengths, challenges and adaptation in employment: A systematic review",
-      "publisher": "Neurodiversity",
-      "releaseDate": "2024-09-30",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Transdiagnostic cognitive biases in psychiatric disorders: A systematic review and network meta-analysis",
-      "publisher": "Progress in Neuro-Psychopharmacology and Biological Psychiatry",
-      "releaseDate": "2024-02-08",
-      "url": "https://doi.org/10.1016/j.pnpbp.2023.110894",
-      "summary": ""
-    }
-  ],
-
   {
   "skills": {
     "icon": "fa-solid fa-tools",
@@ -337,12 +320,12 @@
     {
       "name": "Geneviève Sauvé, PhD, PsyD",
       "icon": "fa-solid fa-user",
-      "reference": "Assistant Professor of Education and Pedagogy, Université du Québec à Montréal. Researcher, Douglas Research Centre. Psychologist."
+      "reference": "Assistant Professor of Education and Pedagogy, Université du Québec à Montréal <br/> Researcher, Douglas Research Centre <br/> Psychologist"
     },
     {
       "name": "Ian Gold, PhD",
       "icon": "fa-solid fa-user",
-      "reference": "Professor of Philosophy, McGill University. Chair of the Department of Philosophy, McGill University."
+      "reference": "Professor of Philosophy, McGill University <br/> Chair of the Department of Philosophy, McGill University"
     }
   ],
   "projects": [
@@ -350,7 +333,7 @@
       "name": "Research Volunteer",
       "startDate": "2023",
       "endDate": "present",
-      "summary": "DREAM BIG Lab,<br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
+      "summary": "DREAM BIG Lab <br/> Lady Davis Institute for Medical Research – Jewish General Hospital",
       "highlights": []
     },
     {
@@ -364,14 +347,14 @@
       "name": "Research Coordinator",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "SMART Lab, Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
+      "summary": "SMART Lab <br/> Department of Education and Pedagogy, Faculty of Education Sciences, Université du Québec à Montréal",
       "highlights": []
     },
     {
       "name": "Research Assistant",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "Dr Peter Nugus, Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
+      "summary": "Dr Peter Nugus <br/> Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
       "highlights": [
         "Conducted literature reviews",
         "Assisted in data collection and analysis"
@@ -381,7 +364,7 @@
       "name": "Undergraduate Research Internship",
       "startDate": "2021-01",
       "endDate": "2021-08",
-      "summary": "Dr Michael Petrides' Neurocognitive Lab, Montreal Neurological Institute-Hospital, McGill University",
+      "summary": "Dr Michael Petrides' Neurocognitive Lab <br/> Montreal Neurological Institute-Hospital, McGill University",
       "highlights": []
     }
   ]
