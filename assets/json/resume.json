@@ -178,7 +178,7 @@
       "date": "",
       "issuer": "",
       "url": "",
-      "icon": ""
+      "icon": "ambulance"
     }
   ],
   "publications": [
@@ -224,6 +224,7 @@
     {
       "name": "Operating Systems & Environments",
       "level": "",
+      "icon": "brand-bilibili",
       "keywords": [
         "Linux",
         "Ubuntu",
