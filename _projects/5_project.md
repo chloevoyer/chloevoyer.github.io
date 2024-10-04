@@ -1,9 +1,10 @@
 ---
 layout: page
 title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+description: automated Garmin activity sync to Notion database for tracking
+img: assets/img/garmin-to-notion.jpg
+redirects: https://github.com/chloevoyer/garmin-to-notion
+importance: 1
 category: fun
 ---
 
