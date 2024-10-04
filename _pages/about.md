@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<span style='color: #3aafa9;'>MSc Mental Health</span>, <i>McGill University</i>"
+subtitle: "<span style='color: #3aafa9;'>🎓 MSc Mental Health</span>, McGill University"
 
 profile:
   align: right
