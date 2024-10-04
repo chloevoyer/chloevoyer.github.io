@@ -2,7 +2,7 @@
 layout: page
 title: Resilience
 description: COVID-19 Youth Resilience
-img: /assets/img/youthresilience.jpg
+img: assets/img/youthresilience.jpg
 importance: 1
 category: work
 related_publications: true
