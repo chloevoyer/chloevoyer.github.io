@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 5
+title: garmin-to-notion
 description: automated Garmin activity sync to Notion database for tracking
 img: assets/img/garmin-to-notion.jpg
 redirects: https://github.com/chloevoyer/garmin-to-notion
