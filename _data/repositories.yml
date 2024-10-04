@@ -5,6 +5,5 @@ repo_description_lines_max: 2
 
 github_repos:
   - chloevoyer/garmin-to-notion
-  - chloevoyer/academic-cv
   - chloevoyer/chloevoyer.github.io
 
