@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resilience
-description: COVID-19 Youth Resilience
+description: Predictors of resilience during COVID-19 in a community sample of youth exposed to various levels of perinatal maternal adversity
 img: assets/img/youthresilience.jpg
 importance: 1
 category: work
