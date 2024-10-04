@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Severe Mental Illness
-description: A Minds@Work program adapted improve quality of life at work for individuals with ADHD.
+description: A group intervention for people living with severe mental illness.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
