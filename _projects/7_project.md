@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Resilience
+description: COVID-19 Youth Resilience
 img: assets/img/4.jpg
 importance: 1
 category: work
