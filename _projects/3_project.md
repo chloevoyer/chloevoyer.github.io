@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Severe Mental Illness
-description: a project that redirects to another website
+description: A Minds@Work program adapted improve quality of life at work for individuals with ADHD.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
