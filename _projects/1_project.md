@@ -8,7 +8,8 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
+A Minds@Work program adapted improve quality of life at work for individuals with attention-deficit/hyperactivity disorder (ADHD) is currently being developed.
+
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
