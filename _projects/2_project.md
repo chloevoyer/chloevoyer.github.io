@@ -5,7 +5,7 @@ description: Psychometric Tool on Future Workplace Skills
 img: assets/img/futureworkskills.png
 importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Modern society sees disparities between an individual's skills and skills that companies require for a specific position, leading to a labor market with more vacant positions than individuals willing and having the skillset to occupy them. Thus, it is important for employability counselors to understand the existing work-related skills of unemployed individuals to better assist and support their clients to reintegrate the job market.​
