@@ -2,7 +2,7 @@
 layout: page
 title: Resilience
 description: COVID-19 Youth Resilience
-img: assets/img/4.jpg
+img: "https://unsplash.com/illustrations/a-cartoon-of-a-man-sleeping-in-a-field-of-flowers-DL3vPeKzSsU"
 importance: 1
 category: work
 related_publications: true
