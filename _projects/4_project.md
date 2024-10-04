@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ADHD-Inclusion
-description: another without an image
+description: A Minds@Work program adapted to facilitate workplace inclusion for individuals with ADHD.
 img:
 importance: 3
 category: fun
