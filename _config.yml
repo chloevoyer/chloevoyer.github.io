@@ -174,7 +174,10 @@ external_sources:
   - name: Google Blog
     posts:
       - url: https://www.mhrc.ca/studentresearchers/chloevoyer
-        published_date: 2024-05-14
+        published_date: 2024-04-28
+      - url: javascript:(function(){document.evaluate('//*[@id="main"]/section[1]/div/div/div[4]/div[3]/div[1]/div[6]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue.scrollIntoView();})();
+        published_date: 2024-04-28
+
 
 # -----------------------------------------------------------------------------
 # Newsletter
