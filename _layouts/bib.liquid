@@ -357,7 +357,15 @@
     {% if entry.abstract %}
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
-        <p>{{ entry.abstract | replace: 'Background:', '<strong><i>Background:</i></strong>' }}</p>
+        <p>{{ entry.abstract
+							 | replace: 'Background:', '<b><i>Background:</i></b>'
+							 | replace: 'Objectives:', '<b><i>Objectives:</i></b>'
+							 | replace: 'Aims:', '<b><i>Aims:</i></b>'
+							 | replace: 'Methods:', '<b><i>Methods:</i></b>'
+							 | replace: 'Results:', '<b><i>Results:</i></b>'
+							 | replace: 'Discussion:', '<b><i>Discussion:</i></b>'
+							 | replace: 'Conclusion:', '<b><i>Conclusion:</i></b>'
+    }}</p>
       </div>
     {% endif %}
 
