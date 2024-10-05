@@ -357,12 +357,12 @@
     {% if entry.abstract %}
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
-        <p>{{ entry.abstract }}</p>
+        <p>{{ entry.abstract | replace: 'Background:', '<strong><i>Background:</i></strong>' }}</p>
       </div>
     {% endif %}
 
     {% if entry.tldr %}
-      <!-- Hidden abstract block -->
+      <!-- Hidden tldr block -->
       <div class="tldr hidden">
         <p>{{ entry.tldr }}</p>
       </div>
