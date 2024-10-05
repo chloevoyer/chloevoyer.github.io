@@ -1,14 +1,15 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Minds@Work-ADHD
+description: Improving Quality of Work Life in ADHD
+img: assets/img/brain-aurora.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
+A Minds@Work program adapted improve quality of life at work for individuals with attention-deficit/hyperactivity disorder (ADHD) is currently being developed.
+
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

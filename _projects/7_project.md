@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Resilience
+description: Predictors of resilience during COVID-19 in a community sample of youth exposed to various levels of perinatal maternal adversity
+img: assets/img/youthresilience.jpg
 importance: 1
 category: work
 related_publications: true

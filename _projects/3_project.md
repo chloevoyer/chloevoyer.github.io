@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Severe Mental Illness
+description: A group intervention for people living with severe mental illness.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: ADHD-Inclusion
+description: A Minds@Work program adapted to facilitate workplace inclusion for individuals with ADHD.
+img: /assets/img/12.jpg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

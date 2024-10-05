@@ -1,200 +1,319 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chloé Voyer",
+    "label": "MSc student in Mental Health",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chloe.voyer@mail.mcgill.ca",
+    "phone": "(450) 272-3736",
+    "url": "chloevoyer.com",
+    "summary": "MSc student in Mental Health at McGill University who was awarded 3 scholarships during my first year as a masters student, seeking to pursue graduate research on the efficacy of workplace interventions in adults living with mental illness.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "H2C 1K3",
+      "city": "Montréal",
+      "countryCode": "Canada",
+      "region": "Québec"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Chloe-Voyer",
+        "url": "linkedin.com/in/chloe-voyer-142891164"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "McGill University",
+      "area": "Mental Health&mdash;Social & Transcultural",
+      "studyType": "Master of Science",
+      "startDate": "2023-09-01",
+      "endDate": "2025-08-01",
+      "location": "Montreal, QC",
+      "score": "",
+      "courses": [
+        "Supervisors: Drs Ian Gold (supervisor) & Geneviève Sauvé (co-supervisor)",
+        "Advisors: Drs Ridha Joober & Jai Shah",
+        "Thesis: <i>The Efficacy of Workplace Interventions in Adults Living With ADHD</i>"
+      ],
+      "url": "https://www.mcgill.ca/study/2024-2025/faculties/medicine/graduate/programs/master-science-msc-mental-health-thesis"
+    },
+    {
+      "institution": "McGill University",
+      "area": "Psychology, Behavioral Science & Environment",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2017-09-01",
+      "endDate": "2021-10-01",
+      "location": "Montreal, QC",
+      "score": "",
+      "courses": [
+        "Supervisor: Dr Michael Petrides",
+        "<i>Morphological Patterns and Surface Spatial Probability Maps of the Superior Frontal Sulcus in the Human Brain</i>"
+      ],
+      "url": "https://www.mcgill.ca/psychology/undergraduate/programs-study/bachelor-arts-ba"
+    },
+    {
+      "institution": "Dawson College",
+      "area": "General Social Sciences",
+      "studyType": "DCS College Diploma",
+      "startDate": "2015-09-01",
+      "endDate": "2017-05-01",
+      "location": "Montreal, QC",
+      "score": "",
+      "courses": [],
+      "description": "Dean's Honours List"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Scholarships for post‑secondary students (Master's)",
+      "date": "2024",
+      "awarder": "Desjardins Foundation",
+      "summary": "$3,000"
+    },
+    {
+      "title": "Canada Graduate Scholarship – Master's program (CGS M)",
+      "date": "2024",
+      "awarder": "Canadian Institutes of Health Research (CIHR)",
+      "url": "https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en",
+      "summary": "$27,000"
+    },
+    {
+      "title": "Workplace Mental Health Impact Studentship",
+      "date": "2024",
+      "awarder": "Mental Health Research Canada (MHRC), co‑funded in partnership with Mitacs and iA Financial Group",
+      "url": "https://www.mhrc.ca/studentresearchers/chloevoyer",
+      "summary": "$15,000"
+    }
+  ],
+  "work": [
+    {
+      "position": "Research Volunteer",
+      "name": "DREAM BIG Lab",
+      "url": "https://dreambigresearch.com/",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "Lady Davis Institute for Medical Research&mdash;Jewish General Hospital",
+      "highlights": []
+    },
+    {
+      "position": "Research Assistant",
+      "name": "CRISP Lab",
+      "url": "https://www.crispdouglas.ca/",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Douglas Research Centre",
+      "highlights": []
+    },
+    {
+      "position": "Research Coordinator",
+      "name": "SMART Lab",
+      "url": "https://www.smart-lab.ca/",
+      "startDate": "2021-10-01",
+      "endDate": "2023-09-01",
+      "summary": "Department of Education and Pedagogy, Faculty of Education Sciences,<br/> Université du Québec à Montréal",
+      "highlights": []
+    },
+    {
+      "position": "Research Assistant",
+      "name": "Dr Peter Nugus",
+      "url": "https://www.mcgill.ca/familymed/peter-nugus",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Department of Family Medicine and Health Sciences, Faculty of Medicine and Health Sciences, McGill University",
+      "highlights": ["Conducted literature reviews", "Assisted in data collection and analysis"]
+    },
+    {
+      "position": "Undergraduate Research Internship",
+      "name": "Dr Michael Petrides' Neurocognitive Lab",
+      "url": "https://www.mcgill.ca/neuro/michael-petrides-phd",
+      "startDate": "2021-01",
+      "endDate": "2021-08",
+      "summary": "Montreal Neurological Institute-Hospital, McGill University",
+      "highlights": []
+    },
+    {
+      "position": "Mental Health Coach",
+      "name": "BounceBack, Canadian Mental Health Association (CMHA)",
+      "url": "https://bouncebackqc.ca/",
+      "icon": "fa-solid fa-brain",
+      "startDate": "2021-12-01",
+      "endDate": "2022-10-01",
+      "summary": "",
+      "highlights": ["Provided mental health coaching sessions and developed and delivered mental health workshops."]
+    },
+    {
+      "position": "Scrutator",
+      "name": "Voting Offices, Elections Canada",
+      "icon": "fa-solid fa-eye",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "Substitute Teacher",
+      "name": "Commission Scolaire des Hautes-Rivières",
+      "icon": "fa-solid fa-chalkboard-teacher",
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "Administrative Agent",
+      "name": "Hôpital du Haut Richelieu, CISSS Montérégie-Centre",
+      "icon": "fa-solid fa-hospital-user",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "Animator",
+      "name": "Camp de Jour de la Ville St-Jean-sur-Richelieu",
+      "icon": "fa-solid fa-campground",
+      "startDate": "2016",
+      "endDate": "2018",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "Game Master",
+      "name": "Sauve qui peut",
+      "icon": "fa-solid fa-puzzle-piece",
+      "startDate": "2017",
+      "endDate": "2018",
+      "url": "https://sauvequipeut.ca/",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "Administrative Secretary",
+      "name": "Clinique de Physiothérapie du Fort",
+      "icon": "fa-solid fa-file-medical",
+      "startDate": "2013",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Centre for Child Development and Mental Health ",
+      "position": "Graduate Research Volunteer",
+      "url": "https://www.jgh.ca/care-services/occupational-therapy/occupational-therapy-mental-health/child-psychiatry-services/",
+      "icon": "fa-solid fa-hands-helping",
+      "startDate": "2023",
+      "endDate": "present",
+      "summary": "Lady Davis Institute for Medical Research&mdash;Jewish General Hospital",
+      "highlights": []
+    },
+    {
+      "organization": "Suicide Prevention Centre of Montreal",
+      "position": "Psychosocial Intervention",
+      "url": "https://cpsmontreal.ca/en/",
+      "icon": "fa-solid fa-phone-volume",
+      "startDate": "2021-01-01",
+      "endDate": "2023-09-01",
+      "summary": "",
+      "highlights": []
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Motivational Interviewing",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-solid fa-comments"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)",
+      "date": "2022-02-16",
+      "issuer": "Tri-Council Policy Statement",
+      "url": "https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html",
       "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Accreditation AQPS",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-solid fa-life-ring"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "First Aid",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-solid fa-kit-medical"
     }
   ],
+
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Programming Languages & Tools",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["R", "Python", "SQL", "LaTeX", "Markdown", "HTML", "CSS"]
+    },
+    {
+      "name": "Data Analysis & Statistical Software",
+      "level": "",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": ["FreeSurfer", "Statistical Package for the Social Sciences (SPSS)", "REDCap", "NVivo"]
+    },
+    {
+      "name": "Operating Systems & Environments",
+      "level": "",
+      "icon": "fa-solid fa-desktop",
+      "keywords": ["Linux", "Ubuntu", "Virtual Machine"]
+    },
+    {
+      "name": "Office Software & Communication Tools",
+      "level": "",
+      "icon": "fa-solid fa-file-word",
+      "keywords": ["Microsoft Office Suite (Word, Excel, PowerPoint)", "Zoom"]
+    },
+    {
+      "name": "Reference Management",
+      "level": "",
+      "icon": "fa-solid fa-book",
+      "keywords": ["Endnote", "Zotero", "CSL", "CLS"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-leaf-maple"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Native speaker",
+      "icon": "https://www.flaticon.com/free-icon/flower_15870529?term=quebec&page=1&position=6&origin=tag&related_id=15870529"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Psychiatry",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Workplace Interventions", "ADHD", "Severe Mental Illness", "Theory of Mind"]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Geneviève Sauvé, PhD, PsyD",
+      "icon": "fa-solid fa-user",
+      "url": "https://www.researchgate.net/profile/Genevieve-Sauve",
+      "reference": "Assistant Professor of Education and Pedagogy, Université du Québec à Montréal <br/> Researcher, Douglas Research Centre <br/> Psychologist <br/> Head of the <a href=\"https://www.smart-lab.ca\">SMART Lab</a>"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Ian Gold, PhD",
+      "icon": "fa-solid fa-user",
+      "url": "https://www.mcgill.ca/tcpsych/faculty/iangold",
+      "reference": "Professor of Philosophy, McGill University <br/> Chair of the Department of Philosophy, McGill University <br/> Head of the <a href='https://www.neurophilosophylab.org/'>Neurophilosophy Lab</a>"
     }
   ]
 }
