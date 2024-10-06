@@ -14,6 +14,7 @@ nav_order: 5
 <h1>oral presentations</h1>
 {% bibliography --query @presentation %}
 
+
 </div>
 <div class="post">
     <header class="post-header">
@@ -23,6 +24,7 @@ nav_order: 5
 </div>
 
 <div class="conferences">
+
 <ul>
     <li>1<sup>er</sup> Colloque de la Communauté de pratiques internationale santé mentale et travail (<a href="https://colloque2024.santementaletravail.ca/">CoP SMT</a>). Oct. 2024.</li>
     <li>1<sup>st</sup> JGH Department of Psychiatry Student Research Day (JGH). Jun. 2024.</li>
