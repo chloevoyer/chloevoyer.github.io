@@ -30,7 +30,4 @@ nav_order: 4
 <h1>in preparation</h1>
 {% bibliography --query @unpublished %}
 
-<h1>presentations</h1>
-{% bibliography --query @presentation %}
-
 </div>
