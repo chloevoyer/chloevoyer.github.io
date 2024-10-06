@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received a [CIHR Master's award (CGS-M)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en) for the my thesis project! 💰🎉
+Received a [CIHR Master's award (CGS-M)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en) for the my thesis project! 💰🎉

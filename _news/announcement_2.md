@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting at the 2024 edition of the <a href="https://quariera.com/programmation/">QUARIERA</a> conference! 📣
+Presenting at the 2024 edition of the <a href="https://quariera.com/programmation/">QUARIERA</a> conference! 📣
