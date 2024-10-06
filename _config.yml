@@ -54,7 +54,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 1250px
+max_width: 1500px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -149,7 +149,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo: chloevoyer/chloevoyer # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
