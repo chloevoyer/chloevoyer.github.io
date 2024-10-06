@@ -223,9 +223,9 @@
   "certificates": [
     {
       "name": "Motivational Interviewing",
-      "date": "",
-      "issuer": "",
-      "url": "",
+      "date": "2021",
+      "issuer": "Porte-Voix",
+      "url": "webpsychology.ca",
       "icon": "fa-solid fa-comments"
     },
     {
