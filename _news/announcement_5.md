@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Released my first GitHub repository [garmin-to-notion](https://github.com/chloevoyer/garmin-to-notion) that automates syncing between Garmin Connect and Notion. :octocat:
+Released my first GitHub repository [garmin-to-notion](https://github.com/chloevoyer/garmin-to-notion) that automates syncing between Garmin Connect and Notion. <img src="assets/img/icons/github-logo-purple.svg" width="20" height="20" alt="octicon">

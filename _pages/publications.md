@@ -27,7 +27,7 @@ nav_order: 4
 <h1>preprints</h1>
 {% bibliography --query @preprint %}
 
-<h1>in preparation</h1>
+<h1>manuscripts in preparation</h1>
 {% bibliography --query @unpublished %}
 
 </div>

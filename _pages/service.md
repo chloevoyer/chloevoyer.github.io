@@ -1,6 +1,6 @@
 ---
 layout: page
-title: service
+title: academic service
 permalink: /service/
 nav: false
 nav_order: 7
@@ -10,10 +10,9 @@ nav_order: 7
 
 Member of a Knowledge User Committee for (2) studies:
 
-1. _A participatory study on EDI and corporate carewashing experiences of equity-deserving youth._
-2. _The DREAM BIG consortium: An initiative to harmonization and data analysis plan._
-
-- _COVID-related mental health problems and resiliency in young adults to inform intervention policy from pre-pandemic levels of maternal environmental adversity and mood_
+1. _A participatory study on EDI and corporate carewashing experiences of equity-deserving youth_ (2024--present).
+2. _The DREAM BIG consortium: An initiative to harmonization and data analysis plan_ (2023-present).
+   - _COVID-related mental health problems and resiliency in young adults to inform intervention policy from pre-pandemic levels of maternal environmental adversity and mood._
 
 ### conference organization
 
@@ -28,6 +27,9 @@ Member of a Knowledge User Committee for (2) studies:
 
 ### miscellaneous
 
-- Clinical Psychiatry Observership Program
-  - Dr. Jai Shah (First Episode Psychosis Clinic, Douglas Mental Health University Institute)
-  - Dr. Ridha Joober (First Episode Psychosis Clinic, Douglas Mental Health University Institute)
+- Clinical Psychiatry Observership Program, _Douglas Mental Health University Institute_
+  - Dr. Jai Shah (First Episode Psychosis Clinic)
+    - Program of Early intervention and Prevention of Psychoses (PEPP-Montreal)
+  - Dr. Ridha Joober (First Episode Psychosis Clinic)
+    - Program of Early intervention and Prevention of Psychoses (PEPP-Montreal)
+    - Youth Mental Health and Early Interventions

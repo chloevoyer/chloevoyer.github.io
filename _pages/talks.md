@@ -2,6 +2,7 @@
 layout: page
 title: talks
 permalink: /talks/
+description: "* denotes equal contribution and joint lead authorship."
 nav: true
 nav_order: 5
 ---
@@ -14,14 +15,7 @@ nav_order: 5
 <h1>oral presentations</h1>
 {% bibliography --query @presentation %}
 
-
-</div>
-<div class="post">
-    <header class="post-header">
-        <h1 class="post-title">conferences attended</h1>
-        <p class="post-description">{{ page.description }}</p>
-    </header>
-</div>
+<h2>conferences attended</h2>
 
 <div class="conferences">
 
