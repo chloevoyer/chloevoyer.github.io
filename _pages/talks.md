@@ -11,7 +11,7 @@ nav_order: 5
 
 <div class="publications">
     
-<h1>presentations</h1>
+<h1>oral presentations</h1>
 {% bibliography --query @presentation %}
 
 </div>
