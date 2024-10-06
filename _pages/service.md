@@ -1,8 +1,8 @@
 ---
 layout: page
-title: academic service
+title: service
 permalink: /service/
-nav: true
+nav: false
 nav_order: 7
 ---
 
@@ -18,13 +18,13 @@ Member of a Knowledge User Committee for (2) studies:
 ### conference organization
 
 - Colloque francophone international sur la santé mentale et le retour au travail (2024)
-- Colloque francophone international sur la santé mentale et le retour au travail (2021)
+- Colloque regards croisés sur la santé mentale et le retour au travail (2021)
 
 ### reviewer
 
 - Douglas Research Centre Undergraduate Student Research Expo
 - Healthy Brains, Healthy Lives Undergraduate Student Summer Research Internship Awards
-- Annual Leo and Rachel Hendlisz Awards
+- Annual Leo & Rachel Hendlisz Awards
 
 ### miscellaneous
 

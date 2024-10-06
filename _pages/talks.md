@@ -6,7 +6,23 @@ nav: true
 nav_order: 5
 ---
 
-<div class="talks">
+<!-- Bibsearch Feature -->
+{% include bib_search.liquid %}
+
+<div class="publications">
+    
+<h1>presentations</h1>
+{% bibliography --query @presentation %}
+
+</div>
+<div class="post">
+    <header class="post-header">
+        <h1 class="post-title">conferences attended</h1>
+        <p class="post-description">{{ page.description }}</p>
+    </header>
+</div>
+
+<div class="conferences">
 <ul>
     <li>1<sup>er</sup> Colloque de la Communauté de pratiques internationale santé mentale et travail (<a href="https://colloque2024.santementaletravail.ca/">CoP SMT</a>). Oct. 2024.</li>
     <li>1<sup>st</sup> JGH Department of Psychiatry Student Research Day (JGH). Jun. 2024.</li>
