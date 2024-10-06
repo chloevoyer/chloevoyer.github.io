@@ -2,7 +2,7 @@
 layout: post
 title: screening tips: red flags edition 🚩
 description: tips for quickly identifying abstracts to exclude
-tags: review
+tags: literature-review
 date: 2024-11-01
 featured: true
 published: true

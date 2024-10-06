@@ -6,4 +6,4 @@ related_posts: true
 published: false
 ---
 
-New publication: [Strengths and challenges to embrace ADHD in employment: A systematic review](https://doi.org/10.1177/27546330241287655). :octocat:
+New publication: [Strengths and challenges to embrace ADHD in employment: A systematic review](https://doi.org/10.1177/27546330241287655). ⭐
