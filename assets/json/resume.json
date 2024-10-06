@@ -230,7 +230,7 @@
     },
     {
       "name": "Ethical Conduct for Research Involving Humans (TCPS 2: CORE 2022)",
-      "date": "2022", # 2022-02-16
+      "date": "2022"
       "issuer": "Tri-Council Policy Statement",
       "url": "https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html",
       "icon": "fa-solid fa-clipboard-check"
