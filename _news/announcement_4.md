@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-01 15:59:00-0400
+date: 2024-05-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Started my MSc in Mental Health at McGill University! 👩‍🎓
+I received a [CIHR Master's award (CGS-M)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en) for the my thesis project! 💰🎉
