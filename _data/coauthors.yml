@@ -1,34 +1,39 @@
-"adams":
+"voyer":
+  - firstname: ["Chloé", "C.", "C. Voyer", "Chloé Voyer", "Chloe", "Chloe Voyer"]
+    url: https://www.researchgate.net/profile/Chloe-Voyer
+
+"sauve":
   - firstname: ["Geneviève", "G.", "Geneviève Sauvé"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+    url: https://www.researchgate.net/profile/Genevieve-Sauve
 
-"podolsky":
-  - firstname: ["Chloé", "C.", "Chloé Voyer"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"lavigne":
+  - firstname: ["Katie", "K.", "K. M.", "KM Lavigne", "Katie Lavigne", "Katie M. Lavigne"]
+    url: https://www.researchgate.net/profile/Katie-Lavigne
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"lepage":
+  - firstname: ["Martin Lepage", "M. L.", "M. Lepage", "Martin", "M."]
+    url: https://www.researchgate.net/profile/Martin-Lepage-5
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"laplante":
+  - firstname: ["David P. Laplante", "David P.", "D. P.", "David Laplante", "D.", "<sup>†</sup>D. P."]
+    url: https://www.researchgate.net/profile/David-Laplante
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"chene":
+  - firstname: ["Delphine", "D."]
+    url: https://www.researchgate.net/profile/Delphine-Raucher-Chene
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"wazana":
+  - firstname: ["<sup>†</sup>A.", "Ashley", "A.", "A. W.", "Ashley Wazana"]
+    url: https://www.researchgate.net/profile/Ashley-Wazana
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"stamate":
+  - firstname: ["A.", "A. N.", "Alina", "Alina N.", "Alina N. Stamate"]
+    url: https://www.researchgate.net/profile/Alina-Stamate
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"corbiere":
+  - firstname: ["M.", "Marc", "Marc Corbière"]
+    url: https://www.researchgate.net/profile/Marc-Corbiere
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"villotti":
+  - firstname: ["P.", "Patrizia", "Patrizia Villotti"]
+    url: https://www.researchgate.net/profile/Patrizia-Villotti
