@@ -8,17 +8,19 @@ nav: true
 nav_order: 5
 pretty_table: true
 ---
+<p>Veuillez consulter mon <a href="https://scholar.google.fr/citations?user=g53kVKwAAAAJ&hl=fr&oi=sra" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i>&nbsp;Google Scholar</a> pour la liste la plus à jour des publications.
+</p>
 
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}
 
 <div class="publications">
     
-<h1>oral presentations</h1>
+<h1>présentations orales</h1>
 {% bibliography --query @presentation %}
 </div>
 
-<h2>conferences attended</h2>
+<h2>conférences suivies</h2>
 
 <div class="conférences">
 

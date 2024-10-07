@@ -10,7 +10,7 @@ nav_order: 6
 
 {% if site.data.repositories.github_users %}
 
-## GitHub User Stats
+## Statistiques de GitHub
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column align-items-top">
   {% for user in site.data.repositories.github_users %}
@@ -39,7 +39,7 @@ nav_order: 6
 
 {% if site.data.repositories.github_repos %}
 
-## GitHub Repositories
+## Dépôts GitHub
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column align-items-top">
   {% for repo in site.data.repositories.github_repos %}

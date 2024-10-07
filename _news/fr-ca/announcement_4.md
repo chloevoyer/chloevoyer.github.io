@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b>Won</b> a [CIHR Master's award (CGS-M)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=en) for the my thesis project! 💰🎉
+<b>J'ai remporté</b> une [bourse de maîtrise des IRSC (BESC-M)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=fr) pour mon projet de thèse! 💰🎉

@@ -6,4 +6,4 @@ related_posts: false
 published: true
 ---
 
-Started my MSc in Mental Health at McGill University! 👩‍🎓
+J'ai commencé ma maîtrise en santé mentale à l'Université McGill ! 👩‍🎓

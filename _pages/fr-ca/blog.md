@@ -3,6 +3,8 @@ page_id: blog
 layout: default
 permalink: /blog/
 title: blogue
+blog_name: chloé-voyer
+description: un espace ouvert pour la recherche académique
 nav: true
 nav_order: 1
 pagination:

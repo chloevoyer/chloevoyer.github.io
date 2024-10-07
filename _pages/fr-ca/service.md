@@ -7,31 +7,31 @@ nav: false
 nav_order: 7
 ---
 
-### knowledge mobilization activities
+### activités de mobilisation des connaissances
 
-Member of a Knowledge User Committee for (2) studies:
+Membre d'un comité d'utilisateurs des connaissances pour (2) études :
 
-1. _A participatory study on EDI and corporate carewashing experiences of equity-deserving youth_ (2024--present).
-2. _The DREAM BIG consortium: An initiative to harmonization and data analysis plan_ (2023-present).
-   - _COVID-related mental health problems and resiliency in young adults to inform intervention policy from pre-pandemic levels of maternal environmental adversity and mood._
+1. _Une étude participative sur l'EDI et les expériences de carewashing en entreprise des jeunes méritant l'équité_ (2024--présent).
+2. _Le consortium DREAM BIG : une initiative d'harmonisation et un plan d'analyse des données_ (2023-présent).
+    - _Problèmes de santé mentale et résilience liés à la COVID-19 chez les jeunes adultes pour éclairer les politiques d'intervention à partir des niveaux pré-pandémiques d'adversité environnementale et d'humeur maternelle._
 
-### conference organization
+### organisation de la conférence
 
 - Colloque francophone international sur la santé mentale et le retour au travail (2024)
 - Colloque regards croisés sur la santé mentale et le retour au travail (2021)
 
-### reviewer
+### réviseur
 
-- Douglas Research Centre Undergraduate Student Research Expo
-- Healthy Brains, Healthy Lives Undergraduate Student Summer Research Internship Awards
-- Annual Leo & Rachel Hendlisz Awards
-  - Assessed and selected the best research articles of the year published by students and postdoctoral fellows of the Douglas Research Centre.
+- Expo de recherche des étudiants de premier cycle du Centre de recherche Douglas
+- Prix de stage de recherche d'été pour étudiants de premier cycle Healthy Brains, Healthy Lives
+- Prix annuels Leo & Rachel Hendlisz
+  - Évaluation et sélection des meilleurs articles de recherche de l'année publiés par les étudiants et les stagiaires postdoctoraux du Centre de recherche Douglas.
 
-### miscellaneous
+### divers
 
-- Clinical Psychiatry Observership Program, _Douglas Mental Health University Institute_
-  - Dr. Jai Shah (First Episode Psychosis Clinic)
-    - Program of Early intervention and Prevention of Psychoses (PEPP-Montreal)
-  - Dr. Ridha Joober (First Episode Psychosis Clinic)
-    - Program of Early intervention and Prevention of Psychoses (PEPP-Montreal)
-    - Youth Mental Health and Early Interventions
+- Programme d'observation en psychiatrie clinique, _Institut universitaire de santé mentale Douglas_
+  - Dr Jai Shah (Clinique des premiers épisodes psychotiques)
+    - Programme d'intervention précoce et de prévention des psychoses (PEPP-Montréal)
+  - Dr Ridha Joober (Clinique des premiers épisodes psychotiques)
+    - Programme d'intervention précoce et de prévention des psychoses (PEPP-Montréal)
+    - Santé mentale des jeunes et interventions précoces
