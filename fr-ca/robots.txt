@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: chloevoyer.com/sitemap.xml
