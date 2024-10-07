@@ -1,9 +1,9 @@
 ---
 page_id: projects
 layout: page
-title: projects
+title: projets
 permalink: /projects/
-description: A growing collection of research projects.
+description: Une collection croissante de projets de recherche.
 nav: false
 nav_order: 3
 display_categories: [work, fun]

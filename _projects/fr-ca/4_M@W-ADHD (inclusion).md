@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ADHD-Inclusion
-description: A Minds@Work program adapted to facilitate workplace inclusion for individuals with ADHD.
+title: TDAH-Inclusion
+description: Un programme Minds@Work adapté pour faciliter l’inclusion en milieu de travail des personnes atteintes de TDAH.
 img: /assets/img/headers/analysis.png
 importance: 3
 category: work

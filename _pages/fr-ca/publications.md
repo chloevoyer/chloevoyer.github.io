@@ -3,7 +3,7 @@ page_id: publications
 layout: page
 permalink: /publications/
 title: publications
-description: "* denotes equal contribution and joint lead authorship."
+description: "* indique une contribution égale et une co-auteur principal."
 nav: true
 nav_order: 4
 ---

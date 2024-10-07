@@ -1,9 +1,9 @@
 ---
 page_id: about
 layout: about
-title: about
+title: bio
 permalink: /
-subtitle: "<span style='color: #3aafa9;'>🎓 MSc Mental Health</span>, McGill University"
+subtitle: "<span style='color: #3aafa9;'>🎓 MSc Santé Mentale</span>, Université McGill"
 
 profile:
   align: right
@@ -16,6 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-MSc student in Mental Health at McGill University who was awarded __3 scholarships__ during my first year as a masters student, seeking to pursue graduate research on the efficacy of workplace interventions in adults living with mental illness.
+Étudiant en MSc Santé Mentale à l'Université McGill, ayant reçu __3 bourses__ lors de ma première année de master, je souhaite poursuivre des recherches en doctorat sur l'efficacité des interventions en milieu de travail pour les adultes vivant avec une maladie mentale.
 
-My recent __academic work__ focuses on understanding the impact of psychosocial interventions on individuals with ADHD in the workplace. I aim to provide valuable insights that can contribute to improving the quality of work life for individuals with ADHD.
+Mon récent __travail académique__ se concentre sur la compréhension de l'impact des interventions psychosociales sur les personnes atteintes de TDAH en milieu de travail. Mon objectif est de fournir des idées précieuses pouvant contribuer à améliorer la qualité de vie professionnelle des personnes atteintes de TDAH.

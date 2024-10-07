@@ -1,15 +1,15 @@
 ---
 page_id: project_1
 layout: page
-title: Minds@Work-ADHD
-description: Improving Quality of Work Life in ADHD
+title: Cerveaux@travail-TDAH
+description: Améliorer la qualité de vie au travail dans le TDAH
 img: assets/img/brain-aurora.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-A Minds@Work program adapted improve quality of life at work for individuals with attention-deficit/hyperactivity disorder (ADHD) is currently being developed.
+Un programme Minds@Work adapté pour améliorer la qualité de vie au travail des personnes atteintes d’un trouble déficitaire de l’attention/hyperactivité (TDAH) est actuellement en cours d’élaboration.
 
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.

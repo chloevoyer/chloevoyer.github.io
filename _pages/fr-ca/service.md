@@ -1,7 +1,7 @@
 ---
 page_id: service
 layout: page
-title: academic service
+title:  service académique
 permalink: /service/
 nav: false
 nav_order: 7

@@ -8,6 +8,6 @@ category: work
 giscus_comments: false
 ---
 
-Modern society sees disparities between an individual's skills and skills that companies require for a specific position, leading to a labor market with more vacant positions than individuals willing and having the skillset to occupy them. Thus, it is important for employability counselors to understand the existing work-related skills of unemployed individuals to better assist and support their clients to reintegrate the job market.​
+La société moderne constate des disparités entre les compétences d'un individu et les compétences requises par les entreprises pour un poste spécifique, ce qui conduit à un marché du travail avec plus de postes vacants que de personnes désireuses et possédant les compétences pour les occuper. Il est donc important que les conseillers en employabilité comprennent les compétences professionnelles existantes des chômeurs afin de mieux aider et soutenir leurs clients à réintégrer le marché du travail.
 
-An assessment tool has been developed in the lab to acquire a more comprehensive assessment of an individual's work-related skills to better assist employability counselors in supporting their clients. The validity and reliability of the tool is currently being tested.
+Un outil d'évaluation a été développé en laboratoire pour obtenir une évaluation plus complète des compétences professionnelles d'un individu afin de mieux aider les conseillers en employabilité à soutenir leurs clients. La validité et la fiabilité de l'outil sont actuellement testées.
