@@ -24,6 +24,7 @@ Member of a Knowledge User Committee for (2) studies:
 - Douglas Research Centre Undergraduate Student Research Expo
 - Healthy Brains, Healthy Lives Undergraduate Student Summer Research Internship Awards
 - Annual Leo & Rachel Hendlisz Awards
+  - Assessed and selected the best research articles of the year published by students and postdoctoral fellows of the Douglas Research Centre.
 
 ### miscellaneous
 

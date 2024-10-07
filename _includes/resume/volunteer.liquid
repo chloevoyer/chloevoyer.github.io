@@ -7,7 +7,7 @@
           {% if content.startDate %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date = startDate | append: ' - ' %}
+            {% assign date = startDate | append: ' — ' %}
             {% assign date = date | append: endDate %}
           {% else %}
             {% assign date = '' %}
@@ -16,7 +16,7 @@
             <tbody>
               <tr>
                 <td>
-                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+                  <span class="badge font-weight-bold danger-color-dark text-lowercase align-middle" style="min-width: 75px"> {{ date }} </span>
                 </td>
               </tr>
               {% if content.location %}
@@ -41,7 +41,7 @@
           <ul class="items">
             {% for item in content.highlights %}
               <li>
-                <span class="item">{{ item }}</span>
+                <span class="item" style="font-size: 0.95rem">{{ item }}</span>
               </li>
             {% endfor %}
           </ul>
