@@ -23,7 +23,9 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-table {
+table { 
+  border-collapse: collapse !important;   /* Remove border around table in conferences attended */
+  border: none !important; /* Remove border around table in conferences attended */
   td,
   th {
     font-size: 1rem;

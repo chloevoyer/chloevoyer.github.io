@@ -15,12 +15,13 @@ pretty_table: true
     
 <h1>oral presentations</h1>
 {% bibliography --query @presentation %}
+</div>
 
 <h2>conferences attended</h2>
 
 <div class="conferences">
 
-<div class="table-responsive">
+<div class="table-responsive table-borderless">
 <table class="table-borderless" id="table" data-toggle="table" data-url="{{ 'assets/json/table_data.json' | relative_url }}">
   <thead>
     <tr>
@@ -30,6 +31,5 @@ pretty_table: true
     </tr>
   </thead>
 </table>
-</div>
 </div>
 

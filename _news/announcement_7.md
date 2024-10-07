@@ -6,4 +6,4 @@ related_posts: true
 published: true
 ---
 
-<b>My thesis in 180s</b> will be featured in this year's 1<sup>st</sup> edition of the [CoP-SMT](https://colloque2024.santementaletravail.ca/) conference. 📸
+<b>My thesis in 180s</b> will be featured at the [CoP-SMT](https://colloque2024.santementaletravail.ca/) conference 📸
