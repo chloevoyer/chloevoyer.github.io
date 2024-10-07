@@ -18,7 +18,7 @@ cv:
   basics: informations générales
   certificates: certificats
   city: ville
-  countryCode: code du pays
+  countryCode: paysCode
   courses: cours
   date: date
   education: éducation
