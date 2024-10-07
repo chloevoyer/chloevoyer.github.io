@@ -1,4 +1,5 @@
 ---
+page_id: cv
 layout: cv
 permalink: /cv/
 title: cv

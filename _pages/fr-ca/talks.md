@@ -1,4 +1,5 @@
 ---
+page_id: talks
 layout: page
 title: talks
 permalink: /talks/

@@ -1,4 +1,5 @@
 ---
+page_id: projects
 layout: page
 title: projects
 permalink: /projects/

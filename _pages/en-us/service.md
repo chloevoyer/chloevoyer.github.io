@@ -1,4 +1,5 @@
 ---
+page_id: service
 layout: page
 title: academic service
 permalink: /service/
