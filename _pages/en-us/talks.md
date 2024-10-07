@@ -13,7 +13,7 @@ pretty_table: true
 {% include bib_search.liquid %}
 
 <div class="publications">
-    
+
 <h1>oral presentations</h1>
 {% bibliography --query @presentation %}
 </div>

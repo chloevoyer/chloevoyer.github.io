@@ -99,6 +99,7 @@ newsletter:
   too_many_signups: "Too many signups, please try again in a little while"
   wait: "Please wait..."
 no_news: No news so far...
+no_posts: No posts so far...
 pagination:
   newer: Newer
   older: Older

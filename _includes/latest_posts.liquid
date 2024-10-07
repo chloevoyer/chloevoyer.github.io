@@ -35,14 +35,14 @@
                   ></path>
                 </svg>
               {% else %}
-              <a class="news-title" href="{{ item.redirect | prepend: site.baseurl }}">{{ item.title }}</a>
-            {% endif %}
+                <a class="news-title" href="{{ item.redirect | prepend: site.baseurl }}">{{ item.title }}</a>
+              {% endif %}
             </td>
           </tr>
         {% endfor %}
       </table>
     </div>
   {% else %}
-    <p>No posts so far...</p>
+    <p>{{ site.data[site.active_lang].strings.no_posts }}</p>
   {% endif %}
 </div>

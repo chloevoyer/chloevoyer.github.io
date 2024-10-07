@@ -17,17 +17,15 @@ nav_order: 4
 {% include bib_search.liquid %}
 
 <div class="publications">
-    
-<h1>articles de revues à comité de lecture</h1>
-{% bibliography --query @article %}
+    <h1>articles de revues à comité de lecture</h1>
+    {% bibliography --query @article %}
 
-<h2>actes de conférence</h2>
-{% bibliography --query @inproceedings %}
+    <h2>actes de conférence</h2>
+    {% bibliography --query @inproceedings %}
 
-<h1>pré-impressions</h1>
-{% bibliography --query @preprint %}
+    <h1>pré-impressions</h1>
+    {% bibliography --query @preprint %}
 
-<h1>manuscrits en préparation</h1>
-{% bibliography --query @unpublished %}
-
+    <h1>manuscrits en préparation</h1>
+    {% bibliography --query @unpublished %}
 </div>

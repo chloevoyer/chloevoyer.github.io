@@ -1,7 +1,7 @@
 ---
 page_id: service
 layout: page
-title:  service académique
+title: service académique
 permalink: /service/
 nav: false
 nav_order: 7
@@ -13,7 +13,7 @@ Membre d'un comité d'utilisateurs des connaissances pour (2) études :
 
 1. _Une étude participative sur l'EDI et les expériences de carewashing en entreprise des jeunes méritant l'équité_ (2024--présent).
 2. _Le consortium DREAM BIG : une initiative d'harmonisation et un plan d'analyse des données_ (2023-présent).
-    - _Problèmes de santé mentale et résilience liés à la COVID-19 chez les jeunes adultes pour éclairer les politiques d'intervention à partir des niveaux pré-pandémiques d'adversité environnementale et d'humeur maternelle._
+   - _Problèmes de santé mentale et résilience liés à la COVID-19 chez les jeunes adultes pour éclairer les politiques d'intervention à partir des niveaux pré-pandémiques d'adversité environnementale et d'humeur maternelle._
 
 ### organisation de la conférence
 
