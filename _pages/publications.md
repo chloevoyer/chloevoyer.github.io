@@ -18,7 +18,7 @@ nav_order: 4
 
 <div class="publications">
     
-<h1>peer-reviewed articles</h1>
+<h1>peer-reviewed journal articles</h1>
 {% bibliography --query @article %}
 
 <h2>conference proceedings</h2>
