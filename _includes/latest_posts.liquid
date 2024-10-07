@@ -16,7 +16,7 @@
         {% endif %}
         {% for item in latest_posts limit: latest_posts_limit %}
           <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <th scope="row" style="width: 20%">{% include date_format.liquid format='short' date=item.date %}</th>
             <td>
               {% if item.redirect == blank %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
@@ -35,8 +35,8 @@
                   ></path>
                 </svg>
               {% else %}
-                <a class="news-title" href="{{ item.redirect | relative_url }}">{{ item.title }}</a>
-              {% endif %}
+              <a class="news-title" href="{{ item.redirect | prepend: site.baseurl }}">{{ item.title }}</a>
+            {% endif %}
             </td>
           </tr>
         {% endfor %}
