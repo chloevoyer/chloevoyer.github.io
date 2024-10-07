@@ -1,6 +1,6 @@
-archive_category: archive des articles dans cette catégorie
-archive_tag: archive des articles avec ce tag
-archive_year: archive des articles de cette année
+archive_category: catégorie_archive
+archive_tag: archive_tag
+archive_year: archive_year
 blog: blogue
 navigation_title: blogue
 categories:
@@ -8,8 +8,8 @@ categories:
   work: travail
 citation:
   bibtex: bibtex
-  introduction: si vous avez trouvé cela utile, veuillez citer ceci :
-contact_note: vous pouvez ajouter une petite note sur la meilleure façon de vous joindre.
+  introduction: introduction
+contact_note: contact_note
 cv:
   address: adresse
   area: région
