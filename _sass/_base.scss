@@ -24,7 +24,7 @@ hr {
 }
 
 table { 
-  border-collapse: collapse !important;   /* Remove border around table in conferences attended */
+  border-collapse: collapse !important; /* Remove border around table in conferences attended */
   border: none !important; /* Remove border around table in conferences attended */
   td,
   th {
@@ -402,7 +402,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
-    font-size: 0.8rem;  
+    font-size: 0.8rem;
     padding-top: 10px;
   }
 }
@@ -1150,8 +1150,6 @@ ninja-keys {
   --ninja-z-index: 1031;
 }
 
-
-  // modal footer and its components were extracted from assets/js/search/base-styles.min.js
   .modal-footer {
     padding: 0.5em 1em;
     display: flex;

@@ -23,7 +23,8 @@ nav_order: 6
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
 {% if site.data.repositories.github_users.size > 1 %}
-  {% endif %}
+{% endif %}
+
   <div class="repositories d-flex flex-wrap flex-md-row flex-column align-items-top">
     {% for user in site.data.repositories.github_users %}
       {% include repository/repo_user.liquid username=user %}

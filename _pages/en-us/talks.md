@@ -33,4 +33,3 @@ pretty_table: true
   </thead>
 </table>
 </div>
-
