@@ -141,6 +141,7 @@ lsi: false # produce an index for related posts
 # Pagination
 pagination:
   enabled: true
+  title: ":title - pagination.page :num"
 
 related_blog_posts:
   enabled: true
@@ -264,6 +265,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-polyglot
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
@@ -661,8 +663,10 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+  - data: resume_en-us
+    json: assets/json/resume_en-us.json # it can also be an url
+  - data: resume_fr-ca
+    json: assets/json/resume_fr-ca.json
 jsonresume:
   - basics
   - profiles
