@@ -4,5 +4,13 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - chloevoyer/garmin-to-notion
-  - chloevoyer/chloevoyer.github.io
+  - name: garmin-to-notion
+    url: https://github.com/chloevoyer/garmin-to-notion
+    description:
+      en: "Import data from GarminConnect to Notion database"
+      fr: "Importer des données de GarminConnect vers la base de données Notion"
+  - name: chloevoyer.github.io
+    url: https://github.com/chloevoyer/chloevoyer.github.io
+    description:
+      en: "Academic Research Portfolio"
+      fr: "Portfolio de recherche académique"
