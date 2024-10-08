@@ -5,5 +5,5 @@ description: Synchronisation automatique des activités Garmin avec la base de d
 redirects: https://github.com/chloevoyer/garmin-to-notion
 img: assets/img/headers/garmin-to-notion.jpg
 importance: 1
-category: fun
+category: extra
 ---
