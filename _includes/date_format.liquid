@@ -9,10 +9,10 @@
   Here, add language specific date formats
 {% endcomment %}
 
-{%- if site.active_lang == 'en-us' -%}
+{%- if site.active_lang == 'en' -%}
   {{ month }}
   {{ day }}, {{ year }}
-{%- elsif site.active_lang == 'fr-ca' -%}
+{%- elsif site.active_lang == 'fr' -%}
   {{ day }}
   {{ month }} {{ year }}
 {%- else -%}

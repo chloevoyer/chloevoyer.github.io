@@ -9,10 +9,15 @@
 {% endif %}
 
 {% assign lang = site.active_lang | default: 'en' %}
-{% assign github_locale = lang %}
-{% if lang == 'pt' %}
-  {% assign github_locale = 'pt-BR' %}
-{% endif %}
+{% assign github_locale = 'en' %}
+{% case lang %}
+  {% when 'fr' %}
+    {% assign github_locale = 'fr' %}
+  {% when 'en' %}
+    {% assign github_locale = 'en' %}
+  {% else %}
+    {% assign github_locale = 'en' %}
+{% endcase %}
 
 {% if site.data.repositories.repo_description_lines_max %}
   {% assign max_lines = site.data.repositories.repo_description_lines_max %}
@@ -22,7 +27,6 @@
 
 <div class="repo p-2 text-center">
   <a href="{{ include.repository.url }}">
-    {% comment %} available locales: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#available-locales {% endcomment %}
     <img
       class="repo-img-light w-100"
       alt="{{ repo_name }}"
