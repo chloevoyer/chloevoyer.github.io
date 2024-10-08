@@ -9,8 +9,8 @@ nav_order: 4
 ---
 
 <!-- _pages/publications.md -->
-<p>Veuillez consulter mon <a href="https://scholar.google.fr/citations?user=g53kVKwAAAAJ&hl=fr&oi=sra" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i>&nbsp;Google Scholar</a> pour la liste la plus à jour des publications.
-</p>
+
+<p>Veuillez consulter mon <a href="https://scholar.google.fr/citations?user=g53kVKwAAAAJ&hl=fr&oi=sra" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i>&nbsp;Google Scholar</a> pour la liste la plus à jour des publications.</p>
 
 <!-- Bibsearch Feature -->
 
@@ -28,4 +28,5 @@ nav_order: 4
 
     <h1>manuscrits en préparation</h1>
     {% bibliography --query @unpublished %}
+
 </div>

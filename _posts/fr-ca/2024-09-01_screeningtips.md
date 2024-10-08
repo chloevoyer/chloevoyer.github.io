@@ -9,17 +9,19 @@ published: true
 ---
 
 - I usually start off with the quickest elements that will exclude an article, and that are the easiest/quickest to locate.
-- Most often that is the participant criteria. I will look for “**Methods:** ” or “Participants:” or “Sample:” or sometimes in “Objectives/Aim” and look at the sample and whether or not it meets the eligibility criteria. Usually you can locate this section relatively quickly, as it is often right after the intro (1-2 sentences) and will be the first number that appears in an abstract (usually the sample size or mean age of sample)
+- Most often that is the participant criteria. I will look for "**Methods:**" or "Participants:" or "Sample:" or sometimes in “Objectives/Aim” and look at the sample and whether or not it meets the eligibility criteria. Usually you can locate this section relatively quickly, as it is often right after the intro (1-2 sentences) and will be the first number that appears in an abstract (usually the sample size or mean age of sample)
   - This is a good place to find the diagnostic/age criteria is met if applicable (children vs. adults)
 - Use highlights for search terms if available in your platform!! This will help identify key terms quickly and screen faster!
 
 1. **Conference Proceedings:**
 
-- If you see something like 
+- If you see something like
+
   > [...] **60th Annual National Conference of All India Occupational Therapists Association (AIOTA), (OTICON 2023), February 2-5, 2023** after the main part of the title, then it is also considered conference proceedings
-  
+
   - Look for keywords like “proceedings,” “conference,” “symposium,” “meeting,” “workshop,” or abbreviations like “Conf,” “Symp,” “Proc,” followed by a location and date.
   - Examples: *Proceedings of the 23rd International Conference on...* or *Symposium on XYZ, held in...*
+
 - If you see something like this before the title, then it is most often an abstract submitted for a conference presentation (exclude because not peer-reviewed): T50. Or S49 (usually 1 letter followed by a 2-digit number)
   - Indicators in titles or citations, such as “**T50**” or “**S49**” (letter followed by a number), which often denote session numbers.
 

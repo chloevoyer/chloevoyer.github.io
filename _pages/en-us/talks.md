@@ -10,6 +10,7 @@ pretty_table: true
 ---
 
 <!-- Bibsearch Feature -->
+
 {% include bib_search.liquid %}
 
 <div class="publications">
