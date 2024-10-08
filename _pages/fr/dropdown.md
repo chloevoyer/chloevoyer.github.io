@@ -1,7 +1,7 @@
 ---
 id: dropdown
 layout: page
-title: submenus
+title: autres
 nav: true
 nav_order: 8
 dropdown: true
@@ -12,6 +12,6 @@ children:
   - title: service
     permalink: /service/
   - title: divider
-  - title: github
+  - title: repositories
     permalink: /repositories/
 ---

@@ -662,9 +662,9 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume_en
-    json: /assets/json/resume_en.json # it can also be an url
+    json: assets/json/resume_en.json # it can also be an url
   - data: resume_fr
-    json: /assets/json/resume_fr.json
+    json: assets/json/resume_fr.json
 jsonresume:
   - basics
   - profiles
