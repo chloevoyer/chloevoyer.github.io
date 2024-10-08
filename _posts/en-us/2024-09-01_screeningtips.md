@@ -15,9 +15,9 @@ published: true
 
 1. **Actes de conférence:**
 
-- If you see something like 
+- If you see something like
   > [...] **60th Annual National Conference of All India Occupational Therapists Association (AIOTA), (OTICON 2023), February 2-5, 2023** after the main part of the title, then it is also considered conference proceedings
-  
+
   - Look for keywords like “proceedings,” “conference,” “symposium,” “meeting,” “workshop,” or abbreviations like “Conf,” “Symp,” “Proc,” followed by a location and date.
   - Examples: _Proceedings of the 23rd International Conference on..._ or _Symposium on XYZ, held in..._
 

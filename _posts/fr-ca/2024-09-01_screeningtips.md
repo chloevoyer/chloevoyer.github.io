@@ -20,7 +20,7 @@ published: true
   > [...] **60th Annual National Conference of All India Occupational Therapists Association (AIOTA), (OTICON 2023), February 2-5, 2023** after the main part of the title, then it is also considered conference proceedings
 
   - Look for keywords like “proceedings,” “conference,” “symposium,” “meeting,” “workshop,” or abbreviations like “Conf,” “Symp,” “Proc,” followed by a location and date.
-  - Examples: *Proceedings of the 23rd International Conference on...* or *Symposium on XYZ, held in...*
+  - Examples: _Proceedings of the 23rd International Conference on..._ or _Symposium on XYZ, held in..._
 
 - If you see something like this before the title, then it is most often an abstract submitted for a conference presentation (exclude because not peer-reviewed): T50. Or S49 (usually 1 letter followed by a 2-digit number)
   - Indicators in titles or citations, such as “**T50**” or “**S49**” (letter followed by a number), which often denote session numbers.
@@ -80,3 +80,4 @@ published: true
 1. **Recommended Citation**
 
 - If you look at the recommended citation at the end of an article, this might provide more information that could exclude it if you know well citation formatting styles
+
