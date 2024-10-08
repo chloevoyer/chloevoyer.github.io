@@ -210,18 +210,13 @@
       "name": "Geneviève Sauvé, PhD, PsyD",
       "icon": "fa-solid fa-user",
       "url": "https://www.researchgate.net/profile/Genevieve-Sauve",
-      "reference": "<a href='https://professeurs.uqam.ca/professeur/sauve.genevieve'>Professeure adjointe</a> au département d'éducation et pédagogie, Université du Québec à Montréal <br/> 
-                    <a href='https://douglas.research.mcgill.ca/fr/genevieve-sauve-2/'>Chercheuse</a>, Centre de recherche Douglas <br/> 
-                    Psychologue <br/> 
-                    Responsable du laboratoire Santé Mentale Axée sur la Réintégration au Travail (<a href=\"https://www.smart-lab.ca\">SMART Lab</a>)"
+      "reference": "<a href='https://professeurs.uqam.ca/professeur/sauve.genevieve'>Professeure adjointe</a> au département d'éducation et pédagogie, Université du Québec à Montréal <br><a href='https://douglas.research.mcgill.ca/fr/genevieve-sauve-2/'>Chercheuse</a>, Centre de recherche Douglas <br/>Psychologue <br> Responsable du laboratoire Santé Mentale Axée sur la Réintégration au Travail (<a href='https://www.smart-lab.ca'>SMART Lab</a>)"
     },
     {
       "name": "Ian Gold, PhD",
       "icon": "fa-solid fa-user",
       "url": "https://www.mcgill.ca/tcpsych/faculty/iangold",
-      "reference": "<a href='https://www.mcgill.ca/psychiatry/ian-gold'>Professeur</a> au département de philosophie, University McGill <br/>
-                    <a href='https://www.mcgill.ca/philosophy/ian-jeffrey-gold'>Chair of the Department of Philosophy</a>, Université McGill <br/>
-                    Responsable du <a href='https://www.neurophilosophylab.org/'>laboratoire neurophilosophie</a>"
+      "reference": "<a href='https://www.mcgill.ca/psychiatry/ian-gold'>Professeur</a> au département de philosophie, University McGill <br> <a href='https://www.mcgill.ca/philosophy/ian-jeffrey-gold'>Chair of the Department of Philosophy</a>, Université McGill <br>Responsable du <a href='https://www.neurophilosophylab.org/'>laboratoire neurophilosophie</a>"
     }
   ]
 }
