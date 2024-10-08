@@ -26,7 +26,7 @@ hr {
 table {
   border-collapse: collapse !important; /* Remove border around table in conferences attended */
   border: none !important; /* Remove border around table in conferences attended */
-  td,
+  
   th {
     font-size: 1rem;
     padding: 1px 1rem 1px 0;
@@ -35,6 +35,11 @@ table {
   th {
     font-weight: bold;
   }
+}
+
+table.table td {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 a,
@@ -54,7 +59,7 @@ table.table a {
 .table-dark {
   background-color: transparent;
   &.table-bordered {
-    border: 0px solid var(--global-divider-color) !important;
+    border: 1px solid var(--global-divider-color) !important;
   }
 }
 

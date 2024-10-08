@@ -6,7 +6,7 @@ permalink: /projects/
 description: une collection croissante de projets de recherche
 nav: false
 nav_order: 3
-display_categories: [extra, recherche]
+display_categories: [recherche, extra]
 horizontal: false
 ---
 
