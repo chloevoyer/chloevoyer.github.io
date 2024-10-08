@@ -61,6 +61,7 @@ cv:
   username: Username
   volunteer: Volunteer
   work: Work
+filter: Type to filter
 latest_posts: latest posts
 months:
   long:
