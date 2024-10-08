@@ -113,7 +113,7 @@ references: références
 related_posts:
   description: "Voici d'autres articles que vous pourriez aimer lire ensuite :"
   title: vous avez aimé lire cet article ?
-search: 
+search:
   dark_theme:
     description: changer le thème du site en sombre
     title: changer le thème en sombre
