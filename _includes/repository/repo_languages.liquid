@@ -1,6 +1,7 @@
-{% assign lang = site.active_lang | split: '-' | first %}
-{% if lang == 'fr' %}
-  {% assign lang = site.active_lang %}
+{% assign lang = site.active_lang | default: 'en' %}
+{% assign github_locale = 'en' %}
+{% if lang == 'fr' or lang == 'fr-FR' or lang == 'fr-ca' %}
+  {% assign github_locale = 'fr' %}
 {% endif %}
 
 <div class="repo p-2 text-center">
@@ -8,12 +9,12 @@
     <img
       class="repo-img-light w-200"
       alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ site.active_lang }}&show_icons=true&size_weight=0&count_weight=1&layout=donut"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ github_locale }}&show_icons=true&size_weight=0&count_weight=1&layout=donut"
     >
     <img
       class="repo-img-dark w-200"
       alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ site.active_lang }}&show_icons=true&size_weight=0&count_weight=1&layout=donut"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ github_locale }}&show_icons=true&size_weight=0&count_weight=1&layout=donut"
     >
   </a>
 </div>

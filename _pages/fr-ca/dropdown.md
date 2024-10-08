@@ -6,12 +6,12 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: projects
+  - title: projets
     permalink: /projects/
   - title: divider
   - title: service
     permalink: /service/
   - title: divider
-  - title: repositories
+  - title: github
     permalink: /repositories/
 ---

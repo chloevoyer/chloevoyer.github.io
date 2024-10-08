@@ -61,7 +61,7 @@ cv:
   username: nom d'utilisateur
   volunteer: bénévolat
   work: travail
-  latest_posts: derniers articles
+latest_posts: derniers articles
 months:
   long:
     january: janvier
@@ -107,7 +107,7 @@ pagination:
 post:
   created_in: créé en
   created_by: par
-  last_updated: dernière mise à jour en
+  last_updated: "dernière mise à jour :"
 references: références
 related_posts:
   description: "Voici d'autres articles que vous pourriez aimer lire ensuite :"

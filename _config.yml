@@ -127,8 +127,6 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: chloe-voyer # blog_name will be displayed in your blog page
-blog_description: an open space for academic research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -463,7 +461,7 @@ enable_navbar_social: false # enables displaying social links in the navbar on t
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
-enable_video_embedding: true # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
+enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------
 # Library versions
