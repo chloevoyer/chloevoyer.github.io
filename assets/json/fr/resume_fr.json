@@ -34,7 +34,7 @@
     {
       "institution": "Université McGill",
       "area": "Psychologie, Sciences comportementales et environnement",
-      "studyType": "Baccalauréat ès arts",
+      "studyType": "Baccalauréat en arts",
       "startDate": "2017-09-01",
       "endDate": "2021-10-01",
       "location": "Montréal, QC",
@@ -67,7 +67,7 @@
     },
     {
       "title": "Bourse d'études supérieures du Canada – Programme de maîtrise (BESC-M)",
-      "date": "2024",
+      "date": "{2024–2025}",
       "awarder": "Instituts de recherche en santé du Canada (IRSC)",
       "url": "https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=fr",
       "summary": "27 000 $"
@@ -127,9 +127,7 @@
       "endDate": "2021-09-01",
       "summary": "Institut neurologique de Montréal-Hôpital, Université McGill",
       "highlights": []
-    }
-  ],
-  "work": [
+    },
     {
       "position": "Accompagnatrice en santé mentale",
       "name": "Retrouver son entrain",
@@ -216,7 +214,7 @@
       "name": "Ian Gold, PhD",
       "icon": "fa-solid fa-user",
       "url": "https://www.mcgill.ca/tcpsych/faculty/iangold",
-      "reference": "<a href='https://www.mcgill.ca/psychiatry/ian-gold'>Professeur</a> au département de philosophie, University McGill <br> <a href='https://www.mcgill.ca/philosophy/ian-jeffrey-gold'>Chair of the Department of Philosophy</a>, Université McGill <br>Responsable du <a href='https://www.neurophilosophylab.org/'>laboratoire neurophilosophie</a>"
+      "reference": "<a href='https://www.mcgill.ca/psychiatry/ian-gold'>Professeur</a> au département de philosophie, University McGill <br> <a href='https://www.mcgill.ca/philosophy/ian-jeffrey-gold'>Chaire de recherche du Canada en philosophie et en psychiatrie</a>, Université McGill <br>Responsable du <a href='https://www.neurophilosophylab.org/'>laboratoire neurophilosophie</a>"
     }
   ]
 }
