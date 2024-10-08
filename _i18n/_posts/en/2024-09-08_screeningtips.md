@@ -4,7 +4,7 @@ title: screening tips: red flags edition 🚩
 description: tips for quickly identifying abstracts to exclude
 tags: literature-review
 categories: research
-date: 2024-09-05 16:40:00
+date: 2024-09-08 16:40:00
 featured: true
 published: true
 ---
@@ -24,7 +24,7 @@ published: true
   - Examples: _Proceedings of the 23rd International Conference on..._ or _Symposium on XYZ, held in..._
 
 - If you see something like this before the title, then it is most often an abstract submitted for a conference presentation (exclude because not peer-reviewed): T50. Or S49 (usually 1 letter followed by a 2-digit number)
-  - Indicators in titles or citations, such as `**T50**` or `**S49**` (letter followed by a number), which often denote session numbers.
+  - Indicators in titles or citations, such as `T50` or `S49` (letter followed by a number), which often denote session numbers.
 
 1. **Dissertations and Theses:**
 
@@ -41,7 +41,7 @@ published: true
 
 1. **Non-Peer-Reviewed Sources:**
 
-- Identify keywords like `**editorial**,` `**opinion**,` `**commentary**,` `**letter to the editor**,` `perspective,` or `review` (if not systematic).
+- Identify keywords like `editorial`, `opinion`, `commentary`, `letter to the editor`, `perspective,` or `review` (if not systematic).
 - Examples: `Editorial: The Future of...` or `Letter to the Editor regarding...`
 - Also non-peered-reviewed sources are manual, guide, list of resources, report, handbook, program
 
@@ -60,7 +60,7 @@ published: true
 
 - Exclude abstracts with statuses like `in press`, `forthcoming`, or `submitted.`
 - Examples: `Article in press`, `Forthcoming in Journal of...`
-- If you see an abstract written in the **future-tense** like `we will recruit 50 participants`, or if the title includes `**protocol**`, then it is excluded because it has not data collection (no results published)
+- If you see an abstract written in the **future-tense** like `we will recruit 50 participants`, or if the title includes `protocol`, then it is excluded because it has not data collection (no results published)
   - If you do not see any quantitative data in the abstract, as in results inside brackets, that is also a good indicator (unless it’s a qualitative study). For example: (_M_ = 39.9, _SD_ = 5.9)
 
 1. **Year of Publication:**
