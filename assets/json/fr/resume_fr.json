@@ -13,14 +13,7 @@
       "city": "Montréal",
       "countryCode": "Canada",
       "region": "Québec"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "Chloe-Voyer",
-        "url": "https://www.linkedin.com/in/chloe-voyer-142891164/"
-      }
-    ]
+    }
   },
   "education": [
     {
@@ -69,6 +62,7 @@
       "title": "Bourses pour étudiants postsecondaires (Maîtrise)",
       "date": "2024",
       "awarder": "Fondation Desjardins",
+      "url": "https://www.desjardins.com/a-propos/responsabilite-sociale-cooperation/education-cooperation/fondation-desjardins/bourses-etudes/index.jsp",
       "summary": "3 000 $"
     },
     {
@@ -82,7 +76,7 @@
       "title": "Bourse d'impact sur la santé mentale au travail",
       "date": "2024",
       "awarder": "Recherche en santé mentale Canada (RSMC), cofinancée en partenariat avec Mitacs et le Groupe financier iA",
-      "url": "https://www.mhrc.ca/studentresearchers/chloevoyer",
+      "url": "https://www.mhrc-rsmc.ca/boursesdetudes/chloevoyer",
       "summary": "15 000 $"
     }
   ],
@@ -90,7 +84,7 @@
     {
       "position": "Bénévole de recherche",
       "name": "DREAM BIG Lab",
-      "url": "https://dreambigresearch.com/",
+      "url": "https://dreambigresearch.com/#",
       "startDate": "2023-05-09",
       "endDate": "",
       "summary": "Institut Lady Davis pour la recherche médicale&mdash;Hôpital général juif",
@@ -99,7 +93,7 @@
     {
       "position": "Coordonnatrice de recherche",
       "name": "SMART Lab",
-      "url": "https://www.smart-lab.ca/",
+      "url": "https://www.smart-lab.ca/fr",
       "startDate": "2021-10-01",
       "endDate": "2023-09-01",
       "summary": "Département d'éducation et pédagogie, Faculté des sciences de l'éducation,<br/> Université du Québec à Montréal",
@@ -111,7 +105,7 @@
     {
       "position": "Assistante de recherche",
       "name": "Dr Peter Nugus",
-      "url": "https://www.mcgill.ca/familymed/peter-nugus",
+      "url": "https://www.mcgill.ca/familymed/fr/peter-nugus",
       "startDate": "2021-04-07",
       "endDate": "2023-03-01",
       "summary": "Département de médecine familiale et des sciences de la santé, Faculté de médecine et des sciences de la santé, Université McGill",
@@ -133,11 +127,13 @@
       "endDate": "2021-09-01",
       "summary": "Institut neurologique de Montréal-Hôpital, Université McGill",
       "highlights": []
-    },
+    }
+  ],
+  "work": [
     {
       "position": "Accompagnatrice en santé mentale",
-      "name": "BounceBack",
-      "url": "https://bouncebackqc.ca/",
+      "name": "Retrouver son entrain",
+      "url": "https://retrouversonentrainqc.ca/?_gl=1*1fnjel6*_gcl_au*MTc3MDg3MTgxMS4xNzI4NDA0Njg3*_ga*NzcxODg0NDU2LjE3Mjg0MDQ2ODg.*_ga_6L4T9TP8V0*MTcyODQwNDY4Ny4xLjAuMTcyODQwNDY4Ny4wLjAuMA..",
       "icon": "fa-solid fa-brain",
       "startDate": "2021-12-10",
       "endDate": "2022-10-07",
@@ -147,6 +143,7 @@
     {
       "position": "Scrutatrice",
       "name": "Bureaux de vote",
+      "url": "https://www.elections.ca/content.aspx?section=emp&dir=trng/droop&document=index&lang=f",
       "icon": "fa-solid fa-eye",
       "startDate": "2021-09-20",
       "endDate": "2021-09-20",
@@ -156,6 +153,7 @@
     {
       "position": "Enseignante suppléante",
       "name": "Commission scolaire des Hautes-Rivières",
+      "url": "https://www.cssdhr.gouv.qc.ca/",
       "icon": "fa-solid fa-chalkboard-teacher",
       "startDate": "2019-01-17",
       "endDate": "2022-12-13",
@@ -165,6 +163,7 @@
     {
       "position": "Stage d'été -- agente administrative",
       "name": "Hôpital du Haut Richelieu",
+      "url": "https://sante.gouv.qc.ca/repertoire-ressources/ressource/?nofiche=1222",
       "icon": "fa-solid fa-hospital-user",
       "startDate": "2019-05-01",
       "endDate": "2019-08-30",
@@ -174,6 +173,7 @@
     {
       "position": "Animatrice",
       "name": "La Zone Youhou !",
+      "url": "https://youhou.zone/",
       "icon": "fa-solid fa-campground",
       "startDate": "2015-05-01",
       "endDate": "2019-05-01",
@@ -210,13 +210,18 @@
       "name": "Geneviève Sauvé, PhD, PsyD",
       "icon": "fa-solid fa-user",
       "url": "https://www.researchgate.net/profile/Genevieve-Sauve",
-      "reference": "Professeure au département d'éducation et pédagogie, Université du Québec à Montréal"
+      "reference": "<a href='https://professeurs.uqam.ca/professeur/sauve.genevieve'>Professeure adjointe</a> au département d'éducation et pédagogie, Université du Québec à Montréal <br/> 
+                    <a href='https://douglas.research.mcgill.ca/fr/genevieve-sauve-2/'>Chercheuse</a>, Centre de recherche Douglas <br/> 
+                    Psychologue <br/> 
+                    Responsable du laboratoire Santé Mentale Axée sur la Réintégration au Travail (<a href=\"https://www.smart-lab.ca\">SMART Lab</a>)"
     },
     {
       "name": "Ian Gold, PhD",
       "icon": "fa-solid fa-user",
       "url": "https://www.mcgill.ca/tcpsych/faculty/iangold",
-      "reference": "Professeure au département de philosophie, University McGill<br/> Chair of the Department of Philosophy, Université McGill <br/> Responsable du <a href='https://www.neurophilosophylab.org/'>laboratoire neurophilosophie</a>"
+      "reference": "Professeure au département de philosophie, University McGill <br/>
+                    <a href=''>Chair of the Department of Philosophy</a>, Université McGill <br/>
+                    Responsable du <a href='https://www.neurophilosophylab.org/'>laboratoire neurophilosophie</a>"
     }
   ]
 }
