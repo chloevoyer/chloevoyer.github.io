@@ -4,7 +4,7 @@ title: screening tips: red flags edition 🚩
 description: tips for quickly identifying abstracts to exclude
 tags: literature-review
 categories: research
-date: 2024-09-05
+date: 2024-09-05 16:40:00
 featured: true
 published: true
 ---
