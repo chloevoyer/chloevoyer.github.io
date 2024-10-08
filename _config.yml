@@ -170,7 +170,7 @@ external_sources:
         featured: true
   - name: Lifestyle
     posts:
-      - url: https://www.notion.so/templates/fitness-tracker-738
+      - url: https://www.notion.so/templates/fitness-tracker-738 # https://www.notion.so/fr/templates/fitness-tracker-738
         name: Fitness Tracker Notion Template
         published_date: 2024-09-01
         featured: true
