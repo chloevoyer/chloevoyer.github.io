@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b>J'ai remporté</b> une [bourse de maîtrise des IRSC (BESC-M)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=fr) pour mon projet de thèse! 💰🎉
+<b>Récipiente</b> d'une [bourse de maîtrise des IRSC (BESC-M)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=506175&lang=fr) pour mon projet de thèse! 💰🎉
