@@ -80,4 +80,3 @@ published: true
 1. **Recommended Citation**
 
 - If you look at the recommended citation at the end of an article, this might provide more information that could exclude it if you know well citation formatting styles
-
