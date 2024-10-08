@@ -9,9 +9,8 @@ nav_order: 4
 ---
 
 <!-- _pages/publications.md -->
-<p>Please see my 
-<a href="https://scholar.google.ca/citations?user={{ site.scholar_userid }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i>&nbsp;Google Scholar</a> for the most up-to-date list of publications.
-</p>
+
+<p>Please see my <a href="https://scholar.google.ca/citations?user={{ site.scholar_userid }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i>&nbsp;Google Scholar</a> for the most up-to-date list of publications.</p>
 
 <!-- Bibsearch Feature -->
 
