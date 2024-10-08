@@ -3,7 +3,7 @@ page_id: project_1
 layout: page
 title: Minds@Work-ADHD
 description: Improving quality of work life in ADHD
-img: futureworkplaceskills.gif
+img: assets/img/headers/brain-aurora.jpg
 importance: 1
 category: work
 related_publications: true
