@@ -1,6 +1,6 @@
 ---
 layout: post
-title: screening tips: red flags edition 🚩
+title: "screening tips: red flags edition 🚩"
 description: tips for quickly identifying abstracts to exclude
 tags: revue-litérature
 date: 2024-09-05
