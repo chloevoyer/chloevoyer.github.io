@@ -2,8 +2,8 @@
 layout: page
 title: garmin-to-notion
 description: Synchronisation automatique des activités Garmin avec la base de données Notion pour le suivi
-img: assets/img/garmin-to-notion.jpg
 redirects: https://github.com/chloevoyer/garmin-to-notion
+img: garmin-to-notion.jpg
 importance: 1
 category: fun
 ---

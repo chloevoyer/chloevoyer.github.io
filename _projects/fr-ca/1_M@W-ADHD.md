@@ -3,7 +3,7 @@ page_id: project_1
 layout: page
 title: Cerveaux@travail-TDAH
 description: Améliorer la qualité de vie au travail dans le TDAH
-img: assets/img/brain-aurora.jpg
+img: brain-aurora.jpg
 importance: 1
 category: work
 related_publications: true
