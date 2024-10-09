@@ -19,7 +19,9 @@ Use highlights for search inclusion/exclusion criteria keyword if the option is 
 
 - If you see something like
 
-  > [...] **60th Annual National Conference of All India Occupational Therapists Association (AIOTA), (OTICON 2023), February 2-5, 2023** after the main part of the title, then it is also considered conference proceedings
+  > [...] 60th Annual National Conference of All India Occupational Therapists Association (AIOTA), (OTICON 2023), February 2-5, 2023.
+  
+  after the main part of the title, then it is also considered conference proceedings
 
   - Look for keywords like `proceedings`, `conference`, `symposium,`, `meeting`, `workshop`, or abbreviations like `Conf`, `Symp`, `Proc`, followed by a location and date.
   - Examples: _Proceedings of the 23rd International Conference on..._ or _Symposium on XYZ, held in..._
@@ -35,7 +37,7 @@ Use highlights for search inclusion/exclusion criteria keyword if the option is 
 ## Books and Book Chapters
 
 - Look for terms like `chapter,` `section,` `handbook,` `guide,` `edited by,` or `published by.`
-- Examples: `**Chapter** 4 in...` or `**Handbook** of Cognitive Science...`
+- Examples: `Chapter 4 in...` or `Handbook of Cognitive Science...`
 - Most books won’t have a doi, just an ISSN or ISBN number (unless it’s super recent?)
 - Sometimes the title of book or chapters will be very brief and non-descriptive
   - Journal articles are often required to be as specific and descriptive as possible
