@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "screening tips red flags edition"
+title: screening tips red flags edition
 description: tips for quickly identifying abstracts to exclude
 tags: literature-review
 date: 2024-09-07 11:12:00-0400
