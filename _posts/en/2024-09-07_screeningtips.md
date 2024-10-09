@@ -31,16 +31,16 @@ Use highlights for search inclusion/exclusion criteria keyword if the option is 
 
 ## Dissertations and Theses
 
-- Identify keywords like `dissertation,` `thesis,` `Ph.D.,` `M.A.,` or `doctoral.`
+- Identify keywords like `dissertation`, `thesis`, `Ph.D.`, `M.A.`, or `doctoral`.
 - Examples: `Master’s Thesis, University of...` or `Ph.D. Dissertation, Department of...`
 
 ## Books and Book Chapters
 
-- Look for terms like `chapter,` `section,` `handbook,` `guide,` `edited by,` or `published by.`
+- Look for terms like `chapter`, `section`, `handbook`, `guide`, `edited by`, or `published by`.
 - Examples: `Chapter 4 in...` or `Handbook of Cognitive Science...`
 - Most books won’t have a doi, just an ISSN or ISBN number (unless it’s super recent?)
 - Sometimes the title of book or chapters will be very brief and non-descriptive
-  - Journal articles are often required to be as specific and descriptive as possible
+  - Journals often require article titles to be as specific and descriptive as possible
 
 ## Non-Peer-Reviewed Sources
 
@@ -63,7 +63,7 @@ Use highlights for search inclusion/exclusion criteria keyword if the option is 
 
 - Exclude abstracts with statuses like `in press`, `forthcoming`, or `submitted.`
 - Examples: `Article in press`, `Forthcoming in Journal of...`
-- If you see an abstract written in the **future-tense** like `we will recruit 50 participants`, or if the title includes `protocol`, then it is excluded because it has not data collection (no results published)
+- If you see an abstract written in the __future-tense__ like `we will recruit 50 participants`, or if the title includes `protocol`, then it is excluded because it has not data collection (no results published)
   - If you do not see any quantitative data in the abstract, as in results inside brackets, that is also a good indicator (unless it’s a qualitative study). For example: (_M_ = 39.9, _SD_ = 5.9)
 
 ## Year of Publication
