@@ -12,5 +12,5 @@
 - [ ] Add icons for titles of each section in CV
 - [ ] Add icons to skills items
 - [ ] Styling of Interests category ...
-- [ ] Posts not showing up
+- [x] Posts not showing up
 - [ ] ...
