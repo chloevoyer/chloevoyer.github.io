@@ -1,86 +1,74 @@
 ---
 layout: post
-title: "Screening Tips: Red Flags Edition 🚩"
+title: "Revue de litérature : conseils & astuces <i class='fa-solid fa-file-magnifying-glass'></i>"
 date: 2024-10-07 11:12:00
-description: Tips for quickly identifying abstracts to exclude
-tags: literature-review
-categories: research
+description: Conseils pour identifier rapidement les résumés à exclure et augmenter son efficacité
+tags: revue-litérature
+categories: recherche
 ---
 
-I usually start off with the quickest elements that will exclude an article, and that are the easiest/quickest to locate.
+### Tips for Quickly Identifying Abstracts to Exclude
 
-Most often that is the participant criteria. I will look for `Methods` or `Participants` or `Sample` or sometimes in `Objectives/Aim` and look at the sample and whether or not it meets the eligibility criteria. Usually you can locate this section relatively quickly, as it is often right after the intro (1-2 sentences) and will be the first number that appears in an abstract (usually the sample size or mean age of sample)
+When conducting a literature review, I start by identifying the quickest elements to exclude an article. This approach allows me to streamline the process and focus on the most relevant studies.
 
-This is a good place to find the diagnostic/age criteria is met if applicable (children vs. adults)
+#### Participant Criteria
 
-Use highlights for search inclusion/exclusion criteria keyword if the option is available on your platform (e.g., rayyan, COVIDENCE)!! This will help identify key terms quickly and screen faster!
+The participant criteria are typically the easiest elements to locate. I search for sections labeled `Methods`, `Participants`, or `Sample`, and occasionally in `Objectives/Aim`. This section usually appears right after the introduction and often provides key figures, such as sample size or mean age, within the first one or two sentences of the abstract.
 
-### Conference Proceedings
+This is also where you can verify whether diagnostic or age criteria are met, especially when distinguishing between children and adults.
 
-- If you see something like
+If your platform allows it (e.g., Rayyan, COVIDENCE), use highlighting features to search for inclusion/exclusion criteria keywords. This technique can significantly speed up your screening process!
 
-  > [...] 60th Annual National Conference of All India Occupational Therapists Association (AIOTA), (OTICON 2023), February 2-5, 2023.
-  
-  after the main part of the title, then it is also considered conference proceedings
+#### Conference Proceedings
 
-  - Look for keywords like `proceedings`, `conference`, `symposium,`, `meeting`, `workshop`, or abbreviations like `Conf`, `Symp`, `Proc`, followed by a location and date.
-  - Examples: _Proceedings of the 23rd International Conference on..._ or _Symposium on XYZ, held in..._
+Be cautious of articles with conference details, such as:
 
-- If you see something like this before the title, then it is most often an abstract submitted for a conference presentation (exclude because not peer-reviewed): T50. Or S49 (usually 1 letter followed by a 2-digit number)
-  - Indicators in titles or citations, such as `T50` or `S49` (letter followed by a number), which often denote session numbers.
+> [...] 60th Annual National Conference of All India Occupational Therapists Association (AIOTA), (OTICON 2023), February 2-5, 2023.
 
-### Dissertations and Theses
+Look for keywords like `proceedings`, `conference`, `symposium`, `meeting`, or `workshop`, along with abbreviations like `Conf`, `Symp`, or `Proc`, usually followed by a location and date. For example, *Proceedings of the 23rd International Conference on...* or *Symposium on XYZ, held in...* indicate conference proceedings.
 
-- Identify keywords like `dissertation`, `thesis`, `Ph.D.`, `M.A.`, or `doctoral`.
-- Examples: `Master’s Thesis, University of...` or `Ph.D. Dissertation, Department of...`
+If the title starts with a session number (e.g., `T50`, `S49`), it’s often an abstract submitted for a conference presentation and should be excluded due to lack of peer review.
 
-### Books and Book Chapters
+#### Dissertations and Theses
 
-- Look for terms like `chapter`, `section`, `handbook`, `guide`, `edited by`, or `published by`.
-- Examples: `Chapter 4 in...` or `Handbook of Cognitive Science...`
-- Most books won’t have a doi, just an ISSN or ISBN number (unless it’s super recent?)
-- Sometimes the title of book or chapters will be very brief and non-descriptive
-  - Journals often require article titles to be as specific and descriptive as possible
+Identify keywords such as `dissertation`, `thesis`, `Ph.D.`, or `doctoral`. For example, *Master’s Thesis, University of...* or *Ph.D. Dissertation, Department of...* indicate non-peer-reviewed material.
 
-### Non-Peer-Reviewed Sources
+#### Books and Book Chapters
 
-- Identify keywords like `editorial`, `opinion`, `commentary`, `letter to the editor`, `perspective,` or `review` (if not systematic).
-- Examples: `Editorial: The Future of...` or `Letter to the Editor regarding...`
-- Also non-peered-reviewed sources are manual, guide, list of resources, report, handbook, program
+Look for terms like `chapter`, `section`, `handbook`, `guide`, or `edited by`. Examples include *Chapter 4 in...* or *Handbook of Cognitive Science...* 
 
-### News Articles and Magazine Pieces
+Most books will not have a DOI but will have an ISSN or ISBN number (unless very recent). Be cautious of overly brief and non-descriptive titles, as journals typically require more detailed titles for articles.
 
-- Look for publication names that are newspapers, magazines, or other media outlets.
-- Examples: `Published in The New York Times`, `Article in Time Magazine...`
-- Red flag: articles without a doi (unless it’s a book)
+#### Non-Peer-Reviewed Sources
 
-### Language and Accessibility
+Exclude materials that are labeled as `editorial`, `opinion`, `commentary`, `letter to the editor`, `perspective`, or `review` (if not systematic). Examples include *Editorial: The Future of...* or *Letter to the Editor regarding...* Non-peer-reviewed sources can also include manuals, guides, resource lists, reports, and handbooks.
 
-- Exclude abstracts in languages not covered by the review unless translation is feasible.
-- Examples: `Published in Spanish` if the review only includes English-language studies.
+#### News Articles and Magazine Pieces
 
-### Publication Status
+Identify articles published in newspapers, magazines, or other media outlets. Examples include *Published in The New York Times* or *Article in Time Magazine...* Articles lacking a DOI (unless they are books) are red flags for exclusion.
 
-- Exclude abstracts with statuses like `in press`, `forthcoming`, or `submitted.`
-- Examples: `Article in press`, `Forthcoming in Journal of...`
-- If you see an abstract written in the __future-tense__ like `we will recruit 50 participants`, or if the title includes `protocol`, then it is excluded because it has not data collection (no results published)
-  - If you do not see any quantitative data in the abstract, as in results inside brackets, that is also a good indicator (unless it’s a qualitative study). For example: (_M_ = 39.9, _SD_ = 5.9)
+#### Language and Accessibility
 
-### Year of Publication
+Exclude abstracts in languages not covered by your review unless translation is feasible. For instance, if the review includes only English-language studies, any Spanish publications should be excluded.
 
-- Filter out articles published outside the specified date range of the review.
-- Examples: `Published in 1999` when the review covers 2000-2023.
+#### Publication Status
 
-### Non-Empirical Studies
+Exclude abstracts marked as `in press`, `forthcoming`, or `submitted`. For example, *Article in press* or *Forthcoming in Journal of...* indicates that the study has not yet been published.
 
-- Exclude theoretical papers, narrative reviews, or non-empirical discussions.
-- Examples: `A theoretical exploration of...` or `Narrative review of...`
+Additionally, if the abstract is written in the future tense (e.g., *we will recruit 50 participants*) or includes the word `protocol`, it should be excluded, as it indicates that data collection has not occurred. Absence of quantitative data in the abstract is also a good indicator for exclusion, except for qualitative studies (e.g., _M_ = 39.9, _SD_ = 5.9).
 
-### Case Studies
+#### Year of Publication
 
-- If the abstract mentions only 1 participant or `the story of…` or `vignette`
-- Case studies are often excluded
+Filter out articles published outside the specified date range of your review. For example, exclude studies published in 1999 if your review covers 2000-2023.
 
-### Recommended Citation
+#### Non-Empirical Studies
 
-- If you look at the recommended citation at the end of an article, this might provide more information that could exclude it if you know well citation formatting styles
+Exclude theoretical papers, narrative reviews, or non-empirical discussions. Examples include *A theoretical exploration of...* or *Narrative review of...*
+
+#### Case Studies
+
+If an abstract mentions only one participant or includes phrases like *the story of…* or *vignette*, it is likely a case study, which should be excluded.
+
+#### Recommended Citation
+
+Finally, reviewing the recommended citation at the end of an article can provide additional information that may help you determine whether to exclude it, especially if you are familiar with citation formatting styles.
