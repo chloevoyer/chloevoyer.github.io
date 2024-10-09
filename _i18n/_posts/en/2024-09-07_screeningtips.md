@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "screening tips: red flags edition 🚩"
 description: tips for quickly identifying abstracts to exclude
 tags: literature-review
