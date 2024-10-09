@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Screening Tips: Red Flags Edition <img src='/assets/img/icons/red-flag.svg'>"
+title: "Screening Tips: Red Flags Edition <span class='iconlanguages'></span>"
 date: 2024-10-07 11:12:00
 description: Tips for quickly identifying abstracts to exclude
 tags: literature-review
