@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chloevoyer.github.io/chloevoyer.github.io/sitemap.xml
+Sitemap: chloevoyer.com/sitemap.xml
