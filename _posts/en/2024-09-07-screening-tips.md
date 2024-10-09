@@ -35,7 +35,7 @@ Identify keywords such as `dissertation`, `thesis`, `Ph.D.`, or `doctoral`. For 
 
 #### Books and Book Chapters
 
-Look for terms like `chapter`, `section`, `handbook`, `guide`, or `edited by`. Examples include *Chapter 4 in...* or *Handbook of Cognitive Science...* 
+Look for terms like `chapter`, `section`, `handbook`, `guide`, or `edited by`. Examples include *Chapter 4 in...* or *Handbook of Cognitive Science...*
 
 Most books will not have a DOI but will have an ISSN or ISBN number (unless very recent). Be cautious of overly brief and non-descriptive titles, as journals typically require more detailed titles for articles.
 
