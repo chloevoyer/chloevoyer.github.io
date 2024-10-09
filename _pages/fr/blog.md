@@ -107,7 +107,7 @@ pagination:
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
+      {% assign postlist = site.posts %}
     {% else %}
       {% assign postlist = site.posts %}
     {% endif %}
