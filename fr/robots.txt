@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: chloevoyer.com/chloevoyer.github.io/sitemap.xml
