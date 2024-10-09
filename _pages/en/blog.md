@@ -10,7 +10,7 @@ pagination:
   sort_reverse: true
   trail:
     before: 1 # The number of links before the current page
-    after: 3  # The number of links after the current page
+    after: 3 # The number of links after the current page
 ---
 
 <div class="post">
@@ -20,7 +20,7 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
 
-  {% if site.display_tags %}
+{% if site.display_tags %}
   <div class="tag-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -95,6 +95,6 @@ pagination:
     {% endfor %}
   </ul>
 
-  {% include pagination.html %}
+{% include pagination.html %}
 
 </div>
