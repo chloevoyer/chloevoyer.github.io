@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Screening Tips: Red Flags Edition <img src='assets/img/icons/red-flag.svg' alt='Red flag' width='20' height='20'>"
+title: "Screening Tips: Red Flags Edition <img src='/assets/img/icons/red-flag.svg' alt='Red flag' width='20' height='20'>"
 date: 2024-10-07 11:12:00
 description: Tips for quickly identifying abstracts to exclude
 tags: literature-review
