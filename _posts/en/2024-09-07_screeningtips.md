@@ -1,10 +1,10 @@
 ---
 layout: post
 title: screening tips red flags edition
+date: 2024-09-07 11:12:00-0400
 description: tips for quickly identifying abstracts to exclude
 tags: literature-review
-date: 2024-09-07 11:12:00-0400
-related_posts: false
+categories: sample-posts
 ---
 
 I usually start off with the quickest elements that will exclude an article, and that are the easiest/quickest to locate.

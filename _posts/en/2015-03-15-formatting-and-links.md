@@ -1,12 +1,11 @@
 ---
 layout: post
-title: a post with formatting and links
+title: screening tips red flags edition
 date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
+description: tips for quickly identifying abstracts to exclude
 tags: formatting links
 categories: sample-posts
 ---
-
 
 I usually start off with the quickest elements that will exclude an article, and that are the easiest/quickest to locate.
 
